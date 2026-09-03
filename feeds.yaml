@@ -1,0 +1,57 @@
+# 수집 대상 목록.
+# category 는 화면에서 필터로 쓰입니다: report / outlook / news
+# 첫 실행 후 collect.py 가 실패한 피드를 로그로 알려줍니다.
+# 확인 안 된 주소는 verified: false 로 표시해뒀습니다 — 첫 실행 결과 보고 정리하세요.
+
+feeds:
+  # ── 해외 산업지 ─────────────────────────────
+  - name: GamesIndustry.biz
+    url: https://www.gamesindustry.biz/feed
+    category: news
+    verified: true
+
+  - name: Game Developer
+    url: https://www.gamedeveloper.com/rss.xml
+    category: news
+    verified: false
+
+  - name: Game World Observer
+    url: https://gameworldobserver.com/feed
+    category: news
+    verified: false
+
+  - name: PocketGamer.biz
+    url: https://www.pocketgamer.biz/rss/
+    category: news
+    verified: false
+
+  # ── 국내 ────────────────────────────────────
+  - name: 나스미디어 블로그
+    url: https://blog.nasmedia.co.kr/rss
+    category: outlook
+    verified: false
+
+  - name: 디스이즈게임
+    url: https://www.thisisgame.com/rss/rss.xml
+    category: news
+    verified: false
+
+  - name: 게임메카
+    url: https://www.gamemeca.com/rss/news.php
+    category: news
+    verified: false
+
+  # ── 정기 보고서 ─────────────────────────────
+  # KOCCA 는 목록 페이지 크롤링을 robots.txt 로 막아뒀습니다.
+  # 대신 공식 RSS 안내 페이지에서 '정기간행물' 게시판 피드 주소를 복사해 넣으세요:
+  #   https://www.kocca.kr/kocca/subPage.do?menuNo=204917
+  - name: KOCCA 정기간행물
+    url: ""            # ← 위 페이지에서 복사한 주소를 넣으세요
+    category: report
+    verified: false
+
+# 키워드 필터. 비워두면 전부 수집합니다.
+# 일 수십 건이 부담되면 여기에 단어를 넣어 좁히세요 (제목/요약에 하나라도 있으면 통과).
+keyword_filter: []
+# 예시:
+# keyword_filter: ["monetization", "live service", "gacha", "spending", "보고서", "전망", "매출"]
