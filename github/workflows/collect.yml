@@ -1,0 +1,35 @@
+name: collect
+
+on:
+  schedule:
+    - cron: "0 0,12 * * *"   # UTC 기준 하루 두 번 → 한국시간 09시 / 21시
+  workflow_dispatch:          # 저장소 Actions 탭에서 수동 실행도 가능
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser pyyaml requests
+
+      - run: python collect.py
+
+      - name: 변경분 커밋
+        run: |
+          git config user.name  "trend-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "신규 항목 없음 — 커밋 생략"
+          else
+            git commit -m "collect: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
