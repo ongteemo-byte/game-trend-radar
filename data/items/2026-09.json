@@ -1,5 +1,115 @@
 [
  {
+  "id": "41da0dbaceea",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
+  "link": "https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers",
+  "published": "2026-09-03T23:40:49Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "Game Pass subscribers will no longer have unlimited access to Xbox's Cloud Gaming service.",
+  "state": "new"
+ },
+ {
+  "id": "fb9c52e8ed09",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Voting extended for special categories in the Best Places To Work Awards",
+  "link": "https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards",
+  "published": "2026-09-03T16:30:22Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "Now that Gamescom is firmly behind us, the GamesIndustry.biz team is busy judging the entries for this year's Best Places To Work Awards. Entries have closed for our headline awards, which are judged based on anonymous employee feedback - but we have extended the deadline for nominations for our Special Awards, which reward excellence in specific fields. Read more",
+  "state": "new"
+ },
+ {
+  "id": "454ad09927be",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Supercell's acquisition of Metacore expected to close this month",
+  "link": "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month",
+  "published": "2026-09-03T16:06:04Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "Once the deal is closed, Merge Mansion will officially become part of Supercell's live games portfolio.",
+  "state": "new"
+ },
+ {
+  "id": "1e142e6eef26",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "Nvidia is acquiring Hugging Face for nearly $13 billion",
+  "link": "https://gameworldobserver.com/2026/09/03/nvidia-is-acquiring-hugging-face-for-nearly-13-billion",
+  "published": "2026-09-03T16:02:07Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "One of the major AI deals of the year: the largest AI chip manufacturer is purchasing the most popular platform for hosting AI models.",
+  "state": "new"
+ },
+ {
+  "id": "72deff72d86e",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Apple faces £2bn lawsuit over implementation of App Tracking Transparency framework",
+  "link": "https://www.gamesindustry.biz/apple-faces-2bn-lawsuit-over-implementation-of-app-tracking-transparency-framework",
+  "published": "2026-09-03T14:56:12Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "Apple is facing a £2 billion class action lawsuit over the implementation of its App Tracking Transparency (ATT) framework. Read more",
+  "state": "new"
+ },
+ {
+  "id": "d46fc6976e58",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Gamecity Hamburg launches second round of prototype funding",
+  "link": "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding",
+  "published": "2026-09-03T14:49:10Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "The organization is offering up to €80,000 to developers based or operating in the region.",
+  "state": "new"
+ },
+ {
+  "id": "d18f826f692c",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Seriously founder Andrew Stalbow fronts investor group set to acquire Bath City Football Club",
+  "link": "https://www.pocketgamer.biz/seriously-founder-andrew-stalbow-leads-acquisition-of-bath-city-fc/",
+  "published": "2026-09-03T14:38:00Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "Seriously co-founder Andrew Stalbow is leading an investor group set to acquire England football club Bath City FC. Stalbow is heading up the Bath City Holding Company, which includes over 50 investors with backgrounds in sports, tech, games, finance, healthcare and consulting. It includes Tears for Fears co-founder Curt Smith, who will become a club Ambassador following the purchase. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "b339f2ae8171",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "AI Gamechangers Summit boosts PG Connects Nordics",
+  "link": "https://www.pocketgamer.biz/ai-gamechangers-summit-boosts-pg-connects-nordics-8406371/",
+  "published": "2026-09-03T14:30:00Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "Our rebranded and expanded Pocket Gamer Connects Nordics conference heads back to Helsinki this October 20–21 to gather the games industries from across Sweden, Finland, Denmark, Norway and Iceland.As well as themed seminar tracks covering everything from acquisition to web stores for PC, mobile and console, we're delighted to announce the return of the AI Gamechangers Summit on October 21.Entirel",
+  "state": "new"
+ },
+ {
+  "id": "a5e001841b7f",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "DMCC and Epiphany launch gaming mentorship programme",
+  "link": "https://www.pocketgamer.biz/dmcc-and-epiphany-launch-gaming-mentorship-programme/",
+  "published": "2026-09-03T13:38:00Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "The DMCC Gaming Centre has partnered with Epiphany to launch a new mentorship programme aimed at helping gaming founders, developers and indie teams scale their businesses. The programme will offer bi-weekly, one-to-one mentorship sessions covering areas including funding and fundraising, monetisation, publishing, growth strategies and partnerships. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "ceb531fbdf7b",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Saudi gaming startup Takahouse raises $1.5m from Impact46",
+  "link": "https://www.pocketgamer.biz/saudi-gaming-startup-takahouse-raises-15m-from-impact46/",
+  "published": "2026-09-03T13:30:00Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "Riyadh-based developer Takahouse has raised $1.5 million from Saudi investment firm Impact46 to accelerate development of new games and products. Founded in 2018, Takahouse develops mobile titles and interactive applications focused on combining entertainment with social interaction. ... [ MORE ]",
+  "state": "new"
+ },
+ {
   "id": "72217533bd16",
   "source": "GamesIndustry.biz",
   "category": "news",
@@ -19,6 +129,17 @@
   "published": "2026-09-03T12:00:00Z",
   "collected_at": "2026-09-03T12:06:13Z",
   "summary": "This interview is part of our Türkiye region report, published in association with Xsolla, which you can download for free here. Ulaş Mergen, the CEO of Bold Games, has no illusions about how competitive the Turkish mobile games market is. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "c701c87a75eb",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "GameUp Africa rebrands as GameUp Academy with always-on learning platform",
+  "link": "https://www.pocketgamer.biz/game-up-africa-rebrands-as-gameup-academy-with-always-on-learning-platform/",
+  "published": "2026-09-03T11:35:00Z",
+  "collected_at": "2026-09-04T00:06:37Z",
+  "summary": "Maliyo Games has rebranded its GameUp Africa initiative as GameUp Academy to expand the programme from a regional talent development initiative into a global always-on learning platform. The Lagos-based developer said the change follows five years of running GameUp Africa, during which the team gathered data and insights into how people learn and what skills they need. ... [ MORE ]",
   "state": "new"
  },
  {
