@@ -1,5 +1,71 @@
 [
  {
+  "id": "d6b277ad4a86",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "The developer of Escape from Tarkov has launched a publishing division",
+  "link": "https://gameworldobserver.com/2026/09/04/the-developer-of-escape-from-tarkov-has-launched-a-publishing-division",
+  "published": "2026-09-04T11:52:33Z",
+  "collected_at": "2026-09-04T12:05:47Z",
+  "summary": "Despite the crisis in the industry, the number of publishers is increasing.",
+  "state": "new"
+ },
+ {
+  "id": "c3ea765e0ec4",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "The Brian Ward era: How Savvy built Saudi Arabia's games industry and what happens next",
+  "link": "https://www.pocketgamer.biz/the-brian-ward-era-how-savvy-built-saudi-arabias-games-industry-and-what-happens-next/",
+  "published": "2026-09-04T09:30:00Z",
+  "collected_at": "2026-09-04T12:05:47Z",
+  "summary": "Brian Ward’s time as CEO of Savvy Games Group has come to an end. Since joining the company in 2021 as founding CEO, he quickly became one of the main faces of Saudi Arabia’s push into the global games industry. Now, four years before the Kingdom’s 2030 target, he is stepping down. Ward's departure comes sooner than expected. It seemed likely that he would still be running Savvy in 2030, when Saud",
+  "state": "new"
+ },
+ {
+  "id": "87395be5d8a5",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK",
+  "link": "https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk",
+  "published": "2026-09-04T09:09:47Z",
+  "collected_at": "2026-09-04T12:05:47Z",
+  "summary": "PlayStation 5 and Xbox Series X|S console sales increased in the UK following last week's Grand Theft Auto 6 reveal on Netflix . Read more",
+  "state": "new"
+ },
+ {
+  "id": "64fcc7ad370d",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "UK legal claim seeks £2bn from Apple over App Tracking Transparency",
+  "link": "https://www.pocketgamer.biz/uk-legal-claim-seeks-2bn-from-apple-over-app-tracking-transparency/",
+  "published": "2026-09-04T09:00:00Z",
+  "collected_at": "2026-09-04T12:05:47Z",
+  "summary": "Apple is facing a £2 billion ($2.7bn) collective action in the UK Competition Appeal Tribunal on behalf of thousands of app developers over its App Tracking Transparency (ATT) framework. The claim alleges that Apple implemented ATT unfairly and discriminated against third-party developers by imposing stricter requirements on them than on its own advertising and data collection activities. ... [ MO",
+  "state": "new"
+ },
+ {
+  "id": "18e7d59900b3",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "How easy is it to get to Helsinki from across the Nordics?",
+  "link": "https://www.pocketgamer.biz/how-easy-is-it-to-get-to-helsinki-from-across-the-nordics/",
+  "published": "2026-09-04T08:30:00Z",
+  "collected_at": "2026-09-04T12:05:47Z",
+  "summary": "Helsinki sits on the eastern edge of the Nordic region and getting there from Denmark, Sweden, Norway or Iceland is straightforward. With frequent direct flights, overnight ferries, extensive rail connections and good road links, there are plenty of ways to make the journey to PG Connects Nordics, whether speed, price or avoiding air travel is your priority. Once you arrive, Helsinki itself is com",
+  "state": "new"
+ },
+ {
+  "id": "bcfec63c94ce",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Xbox adds monthly cloud limits to Game Pass as it \"continues to invest in its reliability and performance\"",
+  "link": "https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance",
+  "published": "2026-09-04T07:37:02Z",
+  "collected_at": "2026-09-04T12:05:47Z",
+  "summary": "Xbox will introduce monthly cloud gaming limits for Game Pass subscribers beginning in November 2026. Read more",
+  "state": "new"
+ },
+ {
   "id": "41da0dbaceea",
   "source": "Game Developer",
   "category": "news",
