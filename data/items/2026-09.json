@@ -1,5 +1,104 @@
 [
  {
+  "id": "5af4b4e7380a",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "PAX Unplugged Houston to debut in June 2027: \"It's a chance to bring PAX back to the PAX South fans that missed us\"",
+  "link": "https://www.gamesindustry.biz/pax-unplugged-houston-to-debut-in-june-2027-its-a-chance-to-bring-pax-back-to-the-pax-south-fans-that-missed-us",
+  "published": "2026-09-04T18:00:00Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "ReedPop and Penny Arcade have announced the inaugural PAX Unplugged Houston, scheduled for June 2027. Read more",
+  "state": "new"
+ },
+ {
+  "id": "1badf9f5955c",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Cloud gaming's broken promises, inside DoubleDown, and Pokémon's new movie | Week in Views",
+  "link": "https://www.pocketgamer.biz/cloud-gamings-broken-promises-inside-doubledown-and-pokmons-new-movie-week-in-views/",
+  "published": "2026-09-04T16:00:00Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "The games industry moves quickly and while stories may come and go there are some that we just can't let go of… So, to give those particularly thorny topics a further going over we've created a weekly digest where the members of the PocketGamer.biz team share their thoughts and go that little bit deeper on some of the more interesting things that have happened in mobile gaming in the past week. ..",
+  "state": "new"
+ },
+ {
+  "id": "01576eb893eb",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles",
+  "link": "https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles",
+  "published": "2026-09-04T15:57:03Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "Many column inches have been spent questioning the wisdom of focusing on live-service. Sony gambled and lost , as did many other companies chasing the dream of steady recurring revenues, while firms like Capcom that stuck to the traditional path have emerged relatively unscathed . Read more",
+  "state": "new"
+ },
+ {
+  "id": "8a6a268513e6",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "New release roundup: Shoe it All!, Bloodless, Block Blast+, White House Arcade and more",
+  "link": "https://www.pocketgamer.biz/new-release-roundup-shoe-it-all-bloodless-block-blast-and-more/",
+  "published": "2026-09-04T14:30:00Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "While the deals and the stats of the gaming world are important, nothing would happen without the research, funding and, of course, development that goes into making a great game. So here’s a collection of the most exciting new mobile games right now, the developers and publishers behind them, and why, exactly, they've made the cut. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "4a2eca339e50",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Strategically making Star Wars Zero Company, ft. Greg Foertsch",
+  "link": "https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch",
+  "published": "2026-09-04T14:15:00Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "Bit Reactor CEO and Star Wars Zero Company creative director Greg Foertsch discusses the development of the latest adventure from the world of Star Wars.",
+  "state": "new"
+ },
+ {
+  "id": "53a6632c1690",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Nvidia acquires open-source AI platform Hugging Face for $12.9bn",
+  "link": "https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn",
+  "published": "2026-09-04T13:50:36Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "Nvidia has acquired the artificial intelligence platform Hugging Face for $12.9 billion. Read more",
+  "state": "new"
+ },
+ {
+  "id": "ee0090756c5a",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Xbox Game Pass to launch cloud gaming limits in November",
+  "link": "https://www.pocketgamer.biz/xbox-game-pass-to-launch-cloud-gaming-limits-in-november/",
+  "published": "2026-09-04T13:37:00Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "Xbox is changing how cloud gaming is included with Game Pass from November via new monthly limits on the amount of cloud playtime subscribers receive. Game Pass Ultimate subscribers will receive 15 hours of cloud gaming per month, while Premium subscribers will get 10 hours and Essential subscribers will receive five hours. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "5a6eab4c5734",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Savvy Games Group signs new MoUs with Gosu Academy and Warpzone AI Labs",
+  "link": "https://www.pocketgamer.biz/savvy-games-group-signs-new-mous-with-gosu-academy-and-warpzone-ai-labs/",
+  "published": "2026-09-04T13:30:00Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "Savvy Games Group has signed two new memorandums of understanding at LEAP 2026 with Gosu Academy and Warpzone AI Labs to further develop Saudi Arabia’s games industry talent and capabilities. The agreement with Gosu Academy will focus on training and career readiness across game development, game design and esports management. It will also explore experiential and gamified learning solutions and s",
+  "state": "new"
+ },
+ {
+  "id": "b263cacc7cca",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Future imperfect: Five predictions for the next decade | Opinion",
+  "link": "https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-next-decade-opinion",
+  "published": "2026-09-04T12:16:41Z",
+  "collected_at": "2026-09-05T00:06:56Z",
+  "summary": "A lot of minds around the industry currently seem focused on one thing: the future. Whether it was Amir Satvat's Gamescom Dev keynote , or the plethora of industry luminaries who lined up to discuss ongoing and impending turmoil for Edge magazine's latest issue, the topic of the moment is what's next – and the mood is apprehensive, to say the least. Read more",
+  "state": "new"
+ },
+ {
   "id": "d6b277ad4a86",
   "source": "Game World Observer",
   "category": "news",
