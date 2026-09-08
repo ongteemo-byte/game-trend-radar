@@ -1,5 +1,115 @@
 [
  {
+  "id": "38e0b9af3f8b",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Cygames launches new brand CygamesEdge with first game releasing in November",
+  "link": "https://www.pocketgamer.biz/cygames-launches-new-brand-cygamesedge-with-first-game-releasing-in-november/",
+  "published": "2026-09-08T11:35:00Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "Japanese games studio Cygames has established a new brand called CygamesEdge. The arm will focus on supporting small and medium-sized teams while drawing on Cygames’ own expertise, known for mobile IPs like Shadowverse and the multi-billion-dollar hit Umamusume: Pretty Derby. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "29687cbae6b1",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Roblox launches Arabic social channels with Roblox Arabia",
+  "link": "https://www.pocketgamer.biz/roblox-launches-arabic-social-channels-with-roblox-arabia/",
+  "published": "2026-09-08T11:35:00Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "Roblox has officially launched Roblox Arabia, a new set of Arabic-language social media channels aimed at bringing the platform closer to its community across the Arab world. The company's general manager for MENA and Türkiye Mohamed El Sheakh took to LinkedIn to share the news, saying the channels will provide Arabic content, news and updates. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "290290a35008",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "YouTube gaming creators \"command 23% higher deal rates than Twitch\"",
+  "link": "https://www.pocketgamer.biz/youtube-gaming-creators-command-23-higher-deal-rates-than-twitch/",
+  "published": "2026-09-08T11:24:00Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "Kyle Dulay is the co-founder of Collabstr. If you ask most gaming marketers where the creators are, the answer will probably be Twitch. It is the reflex response, and on live viewership, it's defensible. But viewership is not a rate card, and an allocation built on watch hours is an allocation built on the wrong measure. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "efca94d07865",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Don't Nod considering laying off 90 workers in France",
+  "link": "https://www.gamedeveloper.com/business/don-t-nod-considering-laying-off-90-workers-in-france",
+  "published": "2026-09-08T11:14:25Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "The Life is Strange developer has warned it might not have the runway to continue operating beyond January 31, 2027.",
+  "state": "new"
+ },
+ {
+  "id": "ff6bb062f93f",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "FuturLab cuts staff after cancelling non-Powerwash Simulator title",
+  "link": "https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-powerwash-simulator-title",
+  "published": "2026-09-08T11:00:58Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "FuturLab has laid off seven employees following the cancellation of a project unrelated to PowerWash Simulator. Read more",
+  "state": "new"
+ },
+ {
+  "id": "25b4a004c8bf",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "ARM unveils AI-native mobile platform for agentic AI and graphics",
+  "link": "https://www.pocketgamer.biz/arm-unveils-ai-native-mobile-platform-for-agentic-ai-and-graphics/",
+  "published": "2026-09-08T10:48:00Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "Semiconductor company ARM has revealed CSS for Mobile 2, a new compute platform designed to support agentic AI and AI-native graphics on mobile devices. The platform combines the new ARM Mali G2-Ultra NX GPU with the ARM C2 CPU cluster featuring SME2, enhanced system IP, physical implementations and a software ecosystem. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "1e3dc2041474",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Pokémon Go dominates early September revenue charts as Honor of Kings falls into seventh",
+  "link": "https://www.pocketgamer.biz/pokemon-go-dominates-early-september-revenue-charts-as-honor-of-kings-falls-into-seventh/",
+  "published": "2026-09-08T10:45:00Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "Shortly after celebrating its 10th anniversary, geolocation giant Pokémon Go has seen yet another spending spike bolstering its revenue ranking. During the first week of September, the game generated an estimated $44.2 million between Google Play and the App Store, making it the most lucrative mobile game of the period according to AppMagic data. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "a7b7af2c4b51",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Epic Games Store to require age verification for R18+ games in Australia",
+  "link": "https://www.pocketgamer.biz/epic-games-store-to-require-age-verification-for-r18-games-in-australia/",
+  "published": "2026-09-08T10:08:00Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "Epic Games has revealed that its Epic Games Store will require players in Australia to verify they are 18 or older before they can download or purchase games rated R18+ from September 9th. The Fortnite developer said the change is being introduced to comply with Australia's online safety regulations. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "775b936a5736",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Assassin's Creed Black Flag Resynced debuts in Top 5 for PC and console revenue in July | Newzoo Charts",
+  "link": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-debuts-in-top-5-for-pc-and-console-revenue-in-july-newzoo-charts",
+  "published": "2026-09-08T07:57:07Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "Remakes and rereleases drove games revenue in July, with Assassin's Creed Black Flag Resynced debuting in second on PC and fourth on console in Newzoo's charts. Read more",
+  "state": "new"
+ },
+ {
+  "id": "58205bb6aaff",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Arm explains its mobile-first AI-reconstruction technology, which takes a different tack from the \"black box\" approach of DLSS 5",
+  "link": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
+  "published": "2026-09-08T02:00:00Z",
+  "collected_at": "2026-09-08T12:06:01Z",
+  "summary": "Today, the British semiconductor and software design company Arm is holding the Arm Everywhere China event in Shanghai to unveil its latest contributions to the AI computing landscape. Read more",
+  "state": "new"
+ },
+ {
   "id": "ec730a32d56b",
   "source": "GamesIndustry.biz",
   "category": "news",
