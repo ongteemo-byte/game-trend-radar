@@ -1,5 +1,93 @@
 [
  {
+  "id": "5d81a60bf30d",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Frontier Developments FY26 adjusted operating profit jumps 62% to £21.4m",
+  "link": "https://www.gamesindustry.biz/frontier-developments-fy26-adjusted-operating-profit-jumps-62-to-214m",
+  "published": "2026-09-09T11:37:22Z",
+  "collected_at": "2026-09-09T12:05:53Z",
+  "summary": "Frontier Developments has reported record financial results following its June trade update . Read more",
+  "state": "new"
+ },
+ {
+  "id": "3e58aa8788ff",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "GenAI firm Tripo raises $445m two months after Series A3 round",
+  "link": "https://www.pocketgamer.biz/genai-firm-tripo-raises-445m-two-months-after-series-a3-round/",
+  "published": "2026-09-09T11:05:00Z",
+  "collected_at": "2026-09-09T12:05:53Z",
+  "summary": "GenAI tech firm Tripo AI has raised approximately ¥3 billion ($445m) in Series B and B+ financing rounds. The company aims to use the funds to fuel the development of its generative 3D models, expanding its computing infrastructure for AI training and product development. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "d48249d80b29",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Saudi Esports Federation launches Level Up programme for Academy graduates",
+  "link": "https://www.pocketgamer.biz/saudi-esports-federation-launches-level-up-programme-for-academy-graduates/",
+  "published": "2026-09-09T10:34:00Z",
+  "collected_at": "2026-09-09T12:05:53Z",
+  "summary": "The Saudi Esports Federation has launched its Level Up programme through the Saudi Esports Academy in collaboration with Vanguard to give graduates hands-on experience in a live esports environment. The programme places participants within the operational activities of the PRIME League, allowing them to apply their training under the supervision of industry specialists. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "28808a306538",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "White House removes Tetris-inspired Arcade game after copyright warning",
+  "link": "https://www.pocketgamer.biz/white-house-removes-tetris-inspired-game-after-copyright-warning/",
+  "published": "2026-09-09T10:00:00Z",
+  "collected_at": "2026-09-09T12:05:53Z",
+  "summary": "The White House has removed a Tetris-inspired game from its online Arcade after The Tetris Company said it was not involved in the game’s creation. The game, called “Build the Wall”, was launched last week alongside four other titles on the White House website as part of the Trump Administration’s push to promote its policies through popular culture. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "ca79e926910d",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Gamescom Asia x Thailand Game Show announces exhibitor lineup for 2026",
+  "link": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-announces-exhibitor-lineup-for-2026",
+  "published": "2026-09-09T09:55:55Z",
+  "collected_at": "2026-09-09T12:05:53Z",
+  "summary": "Gamescom Asia x Thailand Game Show has announced its exhibitor lineup for this year's event, including Capcom, Bandai Namco, and The Pokémon Company, as well as Nintendo and PlayStation represented by partners. Read more",
+  "state": "new"
+ },
+ {
+  "id": "c77c037d792f",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Steam achievements for unreleased and unannounced games leak on aggregators such as Exophase and SteamDB",
+  "link": "https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unannounced-games-leak-on-aggregators-such-as-exophase-and-steamdb",
+  "published": "2026-09-09T09:15:34Z",
+  "collected_at": "2026-09-09T12:05:53Z",
+  "summary": "Achievements for unreleased and unannounced games on Steam have been leaked, including Fable, Persona 6, Kingdom Hearts 4, and Control Resonant. Read more",
+  "state": "new"
+ },
+ {
+  "id": "5ea785b5ae6f",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "PixelCon brings international mobile games experts to Bratislava for a free conference",
+  "link": "https://www.pocketgamer.biz/pixelcon-brings-international-mobile-games-experts-to-bratislava-for-a-free-conference/",
+  "published": "2026-09-09T09:00:00Z",
+  "collected_at": "2026-09-09T12:05:53Z",
+  "summary": "Slovak game studio Pixel Federation is preparing the first edition of PixelCon, a new mobile games conference designed to connect Central European developers with experienced professionals from some of the world's leading studios, including Rovio, Supercell, Wooga and Electronic Arts. Taking place on September 14th, 2026 in Bratislava, PixelCon is a free, open conference aimed at game developers, ",
+  "state": "new"
+ },
+ {
+  "id": "90c1ab5b9ad3",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "How Nordic studios are using AI part two: From solo game-builders to support that never sleeps",
+  "link": "https://www.pocketgamer.biz/how-nordic-studios-are-using-ai-part-two-from-solo-game-builders-to-support-that-never-sleeps/",
+  "published": "2026-09-09T08:00:00Z",
+  "collected_at": "2026-09-09T12:05:53Z",
+  "summary": "We hear a lot about how AI is reshaping game development. But when you talk to the people actually shipping games, the picture gets a lot more interesting than \"AI makes art now\". For part two of our series on AI in the Nordic games industry (you can read part one here), we spoke to five more people close to that shift: a games lawyer, an AI-native platform CTO, a studio growth lead, an AI tooling",
+  "state": "new"
+ },
+ {
   "id": "ff2e63e4edad",
   "source": "Game Developer",
   "category": "news",
