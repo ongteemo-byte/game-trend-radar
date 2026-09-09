@@ -1,5 +1,148 @@
 [
  {
+  "id": "ff2e63e4edad",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Riot Games is considering making premium titles, says co-founder",
+  "link": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+  "published": "2026-09-08T21:14:23Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "'Not every game needs to be infinite.'",
+  "state": "new"
+ },
+ {
+  "id": "af5981533b45",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
+  "link": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+  "published": "2026-09-08T18:00:00Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "Veteran sports commentator John Buccigross claims EA showed him the tech using his voice for in-game commentary in NHL 27.",
+  "state": "new"
+ },
+ {
+  "id": "cece8575baf8",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Tim Schafer says Double Fine's unique games can be commercial hits if they can find their audience",
+  "link": "https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money",
+  "published": "2026-09-08T17:14:18Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "The Double Fine head says the studio was not profitable under Xbox.",
+  "state": "new"
+ },
+ {
+  "id": "a7fb8ffab9f2",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "There are only three days left (!) until the deadline for submitting applications for the showcase and indie pitch at WN Conference Cyprus ’26",
+  "link": "https://gameworldobserver.com/2026/09/08/there-are-only-three-days-left-until-the-deadline-for-submitting-applications-for-the-showcase-and-indie-pitch-at-wn-conference-cyprus-26",
+  "published": "2026-09-08T17:09:26Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "Both applications can be submitted until September 11, inclusive.",
+  "state": "new"
+ },
+ {
+  "id": "70fe44528eb8",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Why the world needs a Club Penguin successor – that isn't Roblox",
+  "link": "https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successor-that-isnt-roblox",
+  "published": "2026-09-08T15:46:17Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "Club Penguin – the Disney-owned, Flash-based MMO, which ran from 2005 to 2017 – was a formative experience for a generation of children. Stephen MacDonald, who was a senior manager at Disney from 2012 to 2015, says that Club Penguin had over 300 million registered users at its peak. Read more",
+  "state": "new"
+ },
+ {
+  "id": "7e343abe133f",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Sucker Punch's Chris Zimmerman on the attention barrier, finding the spark and the arrogance of starting things",
+  "link": "https://www.pocketgamer.biz/sucker-punchs-chris-zimmerman-on-the-attention-barrier-finding-the-spark-and-the-arrogance-of-starting-things/",
+  "published": "2026-09-08T14:48:00Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "At Pocket Gamer Connects, as well as covering all facets of the mobile games industry, our star speakers cover all other platforms, too. Here, as with our events like PGC Nordics on October 20th and 21st we get some insights from outside the mobile sphere. Sucker Punch was founded in October 1997 by six Microsoft alumni with no publisher, no engine and no game. Twenty-nine years later it is a Play",
+  "state": "new"
+ },
+ {
+  "id": "2ef34d8f3d9d",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Legend of Zelda Direct reveals movie title and Ocarina of Time mobile support",
+  "link": "https://www.pocketgamer.biz/zelda-direct-reveals-movie-title-and-ocarina-of-time-mobile-support/",
+  "published": "2026-09-08T14:30:00Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "The Legend of Zelda movie was highlighted among the early focal points of today’s The Legend of Zelda Direct. Today’s news saw a title reveal, with the film simply named The Legend of Zelda. There is no subheading as the original film is said to be \"based on the many stories, ideas and concepts of the series, built up through the games for 40 years\". ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "bd0ad65204c7",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Star Stable Entertainment reduces workforce by 20% to secure long-term future of its multiplayer horse adventure RPG",
+  "link": "https://www.gamesindustry.biz/star-stable-entertainment-reduces-workforce-by-20-to-secure-long-term-future-of-its-multiplayer-horse-adventure-rpg",
+  "published": "2026-09-08T13:54:12Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "Swedish developer Star Stable Entertainment has laid off 20% of its employees following a restructuring program. Read more",
+  "state": "new"
+ },
+ {
+  "id": "a5a9ccc7045b",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Australia moves to give users control over social media feeds",
+  "link": "https://www.pocketgamer.biz/australia-moves-to-give-users-control-over-social-media-feeds/",
+  "published": "2026-09-08T13:31:00Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "Australia has proposed new rules that would give social media users greater control over the content shown on their feeds as the government continues its push to improve online safety. As reported by Reuters, platforms would have to notify users and offer a choice over their default feed under draft legislation from the Labour government. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "d799a4621424",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "European game developers are more concerned that AI will pressure them to work faster rather than take their job",
+  "link": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+  "published": "2026-09-08T13:27:23Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "61% of European game developers are concerned that generative AI will place them under pressure to work faster and produce more, but only 35% think that AI might cause them to lose their job or reduce demand for their role. Read more",
+  "state": "new"
+ },
+ {
+  "id": "3483bcf18613",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Report: FuturLab lays off devs without informing team leads or managers",
+  "link": "https://www.gamedeveloper.com/business/report-futurlab-makes-layoffs-without-informing-team-leads-or-managers",
+  "published": "2026-09-08T13:23:06Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "Sources have also accused the Powerwash Simulator developer of obfuscating the truth by asking staff to refer to those laid off as 'the leavers.'",
+  "state": "new"
+ },
+ {
+  "id": "deca773b099e",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "The Tetris Company says it was \"not involved in the creation\" of White House parody, takes \"copyright infringement very seriously\"",
+  "link": "https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously",
+  "published": "2026-09-08T13:03:33Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "The Tetris Company has issued a statement regarding a US government-made parody of its tile-matching puzzle game, which has since been removed . Read more",
+  "state": "new"
+ },
+ {
+  "id": "1f9cf2c8e8d8",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "The Big Indie Pitch heads to Montréal this November",
+  "link": "https://www.pocketgamer.biz/the-big-indie-pitch-heads-to-montral-this-november/",
+  "published": "2026-09-08T12:30:00Z",
+  "collected_at": "2026-09-09T00:07:30Z",
+  "summary": "Taking place within MIGS26, the Big Indie Pitch sponsored by Xsolla at PG Connects Summit Montréal delivers a unique quick-fire format that gives each developer five minutes (including Q&A) with each panel of experts. All entrants will get feedback in real-time and post-event via email too. Think speed-dating for developers and experts, and you get the idea. That’s not all though, as the top three",
+  "state": "new"
+ },
+ {
   "id": "38e0b9af3f8b",
   "source": "PocketGamer.biz",
   "category": "news",
