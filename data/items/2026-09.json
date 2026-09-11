@@ -1,5 +1,93 @@
 [
  {
+  "id": "13f461ecd3a2",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "California enacts new social media curbs for children under 16",
+  "link": "https://www.pocketgamer.biz/california-enacts-new-social-media-curbs-for-children-under-16/",
+  "published": "2026-09-11T11:12:00Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "California Governor Gavin Newsom has signed new restrictions on technology companies to protect children from addictive social media features and AI companion chatbots. As reported by Reuters, the measures were among 13 bills enacted as part of a package focused on safeguarding young people, including stronger online privacy protections for minors. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "51f3c69271fb",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Age of Magic surpasses $120m revenue as installs near 20m",
+  "link": "https://www.pocketgamer.biz/age-of-magic-surpasses-120m-revenue-as-installs-near-20m/",
+  "published": "2026-09-11T10:31:00Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "Playkot has revealed that its long-running fantasy squad-based RPG Age of Magic has surpassed $120 million in revenue and reached almost 20m installs worldwide. First launched on September 19th 2018, Age of Magic has become one of Playkot’s key live-service titles, taking players into a dark fantasy world of magical artefacts and rival factions fighting for control of a shattered realm. ... [ MORE",
+  "state": "new"
+ },
+ {
+  "id": "b27c15699874",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Rockstar and fired GTA developers outline core arguments during union busting tribunal",
+  "link": "https://www.gamedeveloper.com/production/rockstar-and-fired-gta-developers-outline-core-arguments-during-union-busting-tribunal",
+  "published": "2026-09-11T10:26:10Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "Both parties have set out their stall in legal documents obtained by Game Developer.",
+  "state": "new"
+ },
+ {
+  "id": "b7092a2608f0",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Studio Atelico opens iOS closed beta for creature battler Bobium Brawlers",
+  "link": "https://www.pocketgamer.biz/studio-atelico-opens-ios-closed-beta-for-creature-battler-bobium-brawlers/",
+  "published": "2026-09-11T09:48:00Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "Studio Atelico has launched a closed beta for Bobium Brawlers, its debut turn-based card and dice creature battler beginning with iOS players in the Philippines. The game is built on Studio Atelico’s proprietary AI engine, which runs entirely on-device and uses models trained on artwork from the studio’s in-house art team. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "4f0ed60150b9",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "New release roundup: New York Times Bonus Puzzles, Villain!, DIY Dadish, and more",
+  "link": "https://www.pocketgamer.biz/new-release-roundup-new-york-times-bonus-puzzles-villain-diy-dadish-and-more/",
+  "published": "2026-09-11T09:45:00Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "While the deals and the stats of the gaming world are important, nothing would happen without the research, funding and, of course, development that goes into making a great game. So here’s a collection of the most exciting new mobile games right now, the developers and publishers behind them, and why, exactly, they've made the cut. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "a159bf8f954a",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "How PG Connects London 2027 will be our finest flagship event ever!",
+  "link": "https://www.pocketgamer.biz/how-pg-connects-london-2027-will-be-our-finest-flagship-event-ever/",
+  "published": "2026-09-11T08:30:00Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "PG Connects London is always our biggest and most popular conference of the year. In 2026, we welcomed c. 3,000 attendees from 1,600 companies across 60 countries. That’s a whole lot of networking to be done. Returning on January 18th and 19th, 2027, we’re improving on an already unmissable games industry offering, with two packed days to network, discover, pitch, deal and learn from 290 of the wo",
+  "state": "new"
+ },
+ {
+  "id": "0011d0285dfb",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Saudi Arabia's PIF reportedly considering to combine EA with Savvy Games Group",
+  "link": "https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to-combine-ea-with-savvy-games-group",
+  "published": "2026-09-11T08:29:50Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "Saudi Arabia's Public Investment Fund (PIF) is reportedly planning to combine Electronic Arts with its subsidiary, Savvy Games Group. Read more",
+  "state": "new"
+ },
+ {
+  "id": "c384d28bdcf2",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Saber Interactive has \"no real development in North America any more\"",
+  "link": "https://www.gamesindustry.biz/saber-interactive-has-no-real-development-in-north-america-any-more",
+  "published": "2026-09-11T08:27:29Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "Saber Interactive's chief creative officer, Tim Willits, has said that the company has \"no real development in North America any more.\" Read more",
+  "state": "new"
+ },
+ {
   "id": "34987d6e27ee",
   "source": "Game Developer",
   "category": "news",
@@ -184,6 +272,17 @@
   "published": "2026-09-10T09:30:00Z",
   "collected_at": "2026-09-10T12:06:05Z",
   "summary": "Among the updates, announcements and marketing drives for mobile games, this bustling industry sees a never-ending flow of crossovers and collaborations. Some partnerships see characters from one game IP enter another. Others see brands or logos show up in unexpected places. And, there are some that take place outside of the game entirely, especially when a celebrity’s involved. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "92c872f1fa05",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Report: Steam now requires Australian users to verify their age with credit cards",
+  "link": "https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards",
+  "published": "2026-09-10T09:24:59Z",
+  "collected_at": "2026-09-11T12:05:36Z",
+  "summary": "Multiple people now claim that Valve has implemented proof-of-age verification for Australian Steam users to access games classified as R18+.",
   "state": "new"
  },
  {
