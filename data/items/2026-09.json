@@ -1,5 +1,148 @@
 [
  {
+  "id": "5a4edb4b86c2",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Level-5 CEO admits using generative AI in recent showcase",
+  "link": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+  "published": "2026-09-14T20:10:38Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Level-5 president and CEO Akihiro Hino has apologized after confirming that generative AI was used in the studio's recent digital showcase. Read more",
+  "state": "new"
+ },
+ {
+  "id": "b80dc5199c0e",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Valve's Steam Frame pricing starts at $1,059",
+  "link": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
+  "published": "2026-09-14T18:04:06Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Valve is also rolling out a developer kit for VR developers targeting its new headset.",
+  "state": "new"
+ },
+ {
+  "id": "b8ff951625ab",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Valve opens waiting list for Steam Frame, starting at $1059",
+  "link": "https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059",
+  "published": "2026-09-14T18:03:34Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Valve has opened a waiting list for its new VR system, Steam Frame. Read more",
+  "state": "new"
+ },
+ {
+  "id": "c2824d31089b",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
+  "link": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
+  "published": "2026-09-14T17:30:55Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Cost is increasingly blamed for gamers choosing to cancel their Xbox Game Pass, PlayStation Plus, and Nintendo Switch Online subscriptions. Read more",
+  "state": "new"
+ },
+ {
+  "id": "dfcfd3f8d1b6",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Rockstar and IWGB outline arguments at start of tribunal",
+  "link": "https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal",
+  "published": "2026-09-14T16:22:08Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Rockstar and the Independent Workers' Union of Great Britain have set out their arguments at an ongoing employment tribunal expected to run until October 16. Read more",
+  "state": "new"
+ },
+ {
+  "id": "bbc9349c4ef0",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Roblox unveils new play, creation and monetisation tools at RDC 2026",
+  "link": "https://www.pocketgamer.biz/roblox-unveils-new-play-creation-and-monetisation-tools-at-rdc-2026/",
+  "published": "2026-09-14T14:38:00Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Roblox has revealed a range of new platform, game development and monetisation features at its 12th annual Roblox Developers Conference (RDC). The new features also come as the company celebrates 20 years of Roblox alongside its creator community. In the last quarter alone, players spent 29 billion hours on the platform across more than 180 countries. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "605f114d3353",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Monster Hunter Now makes $336.9m in three years on mobile",
+  "link": "https://www.pocketgamer.biz/monster-hunter-now-makes-3369m-in-three-years-on-mobile/",
+  "published": "2026-09-14T14:37:00Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Geolocation game Monster Hunter Now has generated $336.9 million in three years. The Scopely Explore title launched globally on September 14th, 2023 when its developer was still known as Niantic, before the acquisition by Scopely. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "1f7f10a0c13d",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Report: 35% of game founders have decided against hiring because AI can do the work",
+  "link": "https://www.pocketgamer.biz/report-35-of-game-founders-have-skipped-hiring-because-of-ai/",
+  "published": "2026-09-14T14:34:00Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Artificial intelligence is already changing how game companies approach their workforce, with 35% of founders saying they have decided not to hire someone because \"AI tools could handle the work instead\". That’s according to the 2026 Big Games Industry Employment Survey, featured in the Talent Signals Reshaping the Games Industry report, with 1,800 respondents across 90 countries. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "3b5cbdef19d4",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "PlayStation allegedly had \"concerns over budget, potential profitability, and exclusivity\" over Kojima Productions' Physint",
+  "link": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
+  "published": "2026-09-14T13:43:40Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "PlayStation reportedly discontinued its involvement with Kojima Productions' Physint due to \"concerns over budget, potential profitability, and exclusivity.\" Read more",
+  "state": "new"
+ },
+ {
+  "id": "d6cc08fbb354",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Why PG Connects Nordics is essential for developers, publishers and investors",
+  "link": "https://www.pocketgamer.biz/why-pg-connects-nordics-is-essential-for-developers-publishers-and-investors/",
+  "published": "2026-09-14T13:30:00Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "We’re thrilled to bring PG Connects back to Helsinki in 2026, bringing together and celebrating the games industries of the Nordic countries: Finland, Sweden, Denmark, Norway, and Iceland. Still a proud partner of Finnish Games Week, our rebranded Pocket Gamer Connects Nordics conference takes place on October 20th and 21st. It's where Northern Europe's developers, publishers, investors - and more",
+  "state": "new"
+ },
+ {
+  "id": "cc1ab37f1283",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Moss developer Polyarc has shut down",
+  "link": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
+  "published": "2026-09-14T13:14:51Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "The Seattle-based VR specialist has closed its doors after over a decade.",
+  "state": "new"
+ },
+ {
+  "id": "1a6d676e1917",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Roblox creators will soon be able to publish games on multiple platforms as standalone apps",
+  "link": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps",
+  "published": "2026-09-14T12:58:00Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "Roblox will enable creators to publish their games on mobile, PC, and console through the Roblox Everywhere initiative. Read more",
+  "state": "new"
+ },
+ {
+  "id": "c04caa6ca69c",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "\"What's the harm in asking?\" – Dlala Studios on taking a big swing to get comedy legend Bob Mortimer for the upcoming game Murals",
+  "link": "https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals",
+  "published": "2026-09-14T12:30:00Z",
+  "collected_at": "2026-09-15T00:06:02Z",
+  "summary": "The name Bob Mortimer might not mean much to those who haven't lived in the UK, but he's a huge deal in the world of British comedy. Read more",
+  "state": "new"
+ },
+ {
   "id": "4dd488847692",
   "source": "Game World Observer",
   "category": "news",
