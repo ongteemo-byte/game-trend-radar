@@ -1,5 +1,126 @@
 [
  {
+  "id": "92257ad45dec",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Roblox will allow devs to release games as standalone apps on other stores",
+  "link": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+  "published": "2026-09-15T19:52:45Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "Roblox will soon let developers bring games to other platforms, though they'll still 'benefit from the same revenue-share economics' of the Roblox app.",
+  "state": "new"
+ },
+ {
+  "id": "ab3c7564db5f",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Bungie is overhauling Marathon from its original extraction shooter vision",
+  "link": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+  "published": "2026-09-15T19:00:00Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "Bungie says addressing player feedback requires the team to 'change both what we're building and how we deliver it,'",
+  "state": "new"
+ },
+ {
+  "id": "5099ccc00a87",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
+  "link": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+  "published": "2026-09-15T18:05:13Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "'If you care about the work you’re making and the result of what you make here, you’ll feel really valued. If you don’t, you will feel slave-driven.'",
+  "state": "new"
+ },
+ {
+  "id": "a5b285a183d1",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Why does this prominent Washington state politician think video games can be 'soft power?'",
+  "link": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+  "published": "2026-09-15T15:10:18Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "Washington secretary of state Steve Hobbs pitched developers on the notion of video games as 'soft power' during SLICE and PAX West 2026.",
+  "state": "new"
+ },
+ {
+  "id": "0a5a340b4c5f",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "Everplay Group increased its stake in the developer Wardogs amid the success of the game",
+  "link": "https://gameworldobserver.com/2026/09/15/everplay-group-increased-its-stake-in-the-developer-wardogs-amid-the-success-of-the-game",
+  "published": "2026-09-15T14:32:59Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "The company Everplay Group (formerly Team17 Group) is very pleased with the launch of the military sandbox Wardogs. So much so that it decided to increase its shareholding in Super Media Group — the nominal owner of the Bulkhead studio, founded a year ago by Bulkhead’s own leaders.",
+  "state": "new"
+ },
+ {
+  "id": "773608ea40f5",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Trailmix on five years of Love & Pies: “There is no status quo in live service”",
+  "link": "https://www.pocketgamer.biz/trailmix-on-five-years-of-love-and-pies-there-is-no-status-quo-in-live-service/",
+  "published": "2026-09-15T14:10:00Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "When Love and Pies launched in September 2021, Trailmix set out to build a merge game with more to it than its core mechanics. Five years later, the game has continued to be supported not only by its long-running live service, but by a community that has grown alongside it too. For general manager of Love & Pies at Trailmix Games, Felicity Gracie-Herst, the clearest measure of that longevity is no",
+  "state": "new"
+ },
+ {
+  "id": "89016831d283",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Sega expands transmedia strategy with Netflix Crazy Taxi film",
+  "link": "https://www.pocketgamer.biz/sega-expands-transmedia-strategy-with-netflix-crazy-taxi-film/",
+  "published": "2026-09-15T14:09:00Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "Sega has expanded its transmedia strategy through a new collaboration with Netflix to bring a Crazy Taxi film to the streaming service alongside adaptations of Sonic and Stranger Than Heaven. The first project from the collaboration will be a feature adaptation of Crazy Taxi, written by Dan Gregor and Doug Mand, the writing duo behind the 2025 reboot of The Naked Gun. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "e872307e3f25",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Level-5 CEO apologises after AI use in recent game trailers",
+  "link": "https://www.pocketgamer.biz/level-5-ceo-apologises-after-ai-use-in-recent-game-reveals/",
+  "published": "2026-09-15T14:06:00Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "Level-5 president and CEO Akihiro Hino has apologised to fans after the Japanese studio confirmed generative AI was used in its recent game reveals. Level-5's upcoming Yo-Kai Watch and Professor Layton titles were showcased during last week's Nintendo Direct, the day after the Legend of Zelda Direct fully unveiled the Switch 2 Ocarina of Time remake. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "42ca12590f77",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "App Store submissions open for Apple’s latest OS releases",
+  "link": "https://www.pocketgamer.biz/app-store-submissions-open-for-apples-latest-os-releases/",
+  "published": "2026-09-15T14:05:00Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "Apple has opened App Store submissions for apps and games built for its upcoming iOS 27, iPadOS 27, macOS 27, tvOS 27, visionOS 27 and watchOS 27 releases. Developers can now download the Xcode 27 Release Candidate, build with the new SDKs, test through TestFlight and submit their apps for App Store review. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "d618b77f55e4",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio",
+  "link": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+  "published": "2026-09-15T13:19:00Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "'We want to make the best games we can together.'",
+  "state": "new"
+ },
+ {
+  "id": "ed5777cb167e",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Why switching main characters for your game's sequel might be a mistake",
+  "link": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+  "published": "2026-09-15T12:30:00Z",
+  "collected_at": "2026-09-16T00:06:04Z",
+  "summary": "Christian Fonnesbech is a well-known name in the North European games industry. He was previously head of IP development at Nordisk Film Games, but in 2019 he founded Leverage in Copenhagen to help game studios develop their IP. Read more",
+  "state": "new"
+ },
+ {
   "id": "4dd3f824eb20",
   "source": "GamesIndustry.biz",
   "category": "news",
