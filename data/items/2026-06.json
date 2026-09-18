@@ -143,6 +143,17 @@
   "state": "new"
  },
  {
+  "id": "2de40d59bb9a",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "NarraScope",
+  "link": "https://www.gamedeveloper.comnarrascope.org",
+  "published": "2026-06-12T07:00:00Z",
+  "collected_at": "2026-09-18T00:05:24Z",
+  "summary": "",
+  "state": "new"
+ },
+ {
   "id": "875ba808d3be",
   "source": "Game World Observer",
   "category": "news",
@@ -195,6 +206,17 @@
   "published": "2026-06-08T12:19:33Z",
   "collected_at": "2026-09-03T03:46:41Z",
   "summary": "The workforce of Supercell has become smaller, reports MobileGamer, referencing posts from laid-off employees on social media.",
+  "state": "new"
+ },
+ {
+  "id": "c9f3c8a3c667",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Summer Game Fest",
+  "link": "https://www.gamedeveloper.comsummergamefest.com",
+  "published": "2026-06-05T07:00:00Z",
+  "collected_at": "2026-09-18T00:05:24Z",
+  "summary": "",
   "state": "new"
  },
  {

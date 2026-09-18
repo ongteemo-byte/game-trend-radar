@@ -1,0 +1,35 @@
+[
+ {
+  "id": "274bf321244d",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "gamescom latam",
+  "link": "https://www.gamedeveloper.comlatam.gamescom.global",
+  "published": "2027-04-22T07:00:00Z",
+  "collected_at": "2026-09-18T00:05:24Z",
+  "summary": "",
+  "state": "new"
+ },
+ {
+  "id": "b890c49d6135",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "PAX East",
+  "link": "https://www.gamedeveloper.com/series/pax-east",
+  "published": "2027-04-22T07:00:00Z",
+  "collected_at": "2026-09-18T00:05:24Z",
+  "summary": "",
+  "state": "new"
+ },
+ {
+  "id": "f508bbf58ce2",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "London Games Festival",
+  "link": "https://www.gamedeveloper.comgames.london",
+  "published": "2027-04-12T07:00:00Z",
+  "collected_at": "2026-09-18T00:05:24Z",
+  "summary": "",
+  "state": "new"
+ }
+]
