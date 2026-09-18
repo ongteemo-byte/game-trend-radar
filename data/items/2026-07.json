@@ -121,6 +121,17 @@
   "state": "new"
  },
  {
+  "id": "f51b9c8da0cf",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "GodotCon",
+  "link": "https://www.gamedeveloper.comconference.godotengine.org",
+  "published": "2026-07-21T07:00:00Z",
+  "collected_at": "2026-09-18T12:05:15Z",
+  "summary": "",
+  "state": "new"
+ },
+ {
   "id": "79fd00c137e5",
   "source": "Game World Observer",
   "category": "news",
