@@ -1,5 +1,126 @@
 [
  {
+  "id": "1e263876df97",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis",
+  "link": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
+  "published": "2026-09-22T15:15:00Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "'If we don't create margin we can't continue to invest in software, and our software costs are going up every year—significantly.'",
+  "state": "new"
+ },
+ {
+  "id": "c8809e64704f",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "Official: XBOX to lay off 268 employees, and Ninja Theory faces potential closure",
+  "link": "https://gameworldobserver.com/2026/09/22/official-xbox-to-lay-off-268-employees-and-ninja-theory-faces-potential-closure",
+  "published": "2026-09-22T14:47:41Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "Microsoft Corporation has indeed announced new changes within its gaming division. Nearly three hundred employees will be affected by these layoffs.",
+  "state": "new"
+ },
+ {
+  "id": "98a6c77b8350",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Xbox to cut 268 jobs as it shakes up studio structure",
+  "link": "https://www.pocketgamer.biz/xbox-to-cut-268-jobs-as-it-shakes-up-studio-structure/",
+  "published": "2026-09-22T14:35:00Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "Xbox will cut 268 staff as it continues a sweeping restructure across the company. The latest layoffs, part of the previously announced 3,200 job losses, will impact Halo Studios, other unidentified first-party studios and the XGS management and central functions layer. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "cb53629564de",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm",
+  "link": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
+  "published": "2026-09-22T14:34:35Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "Battlestate Games Publishing aims to provide publishing support to 'hardcore' games.",
+  "state": "new"
+ },
+ {
+  "id": "9c095d276193",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "\"The friction around alternative distribution is starting to come down\"",
+  "link": "https://www.pocketgamer.biz/the-friction-around-alternative-distribution-is-starting-to-come-down/",
+  "published": "2026-09-22T14:34:00Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "For years, mobile game distribution has largely revolved around two dominant platforms, with developers building their businesses around the big names of Apple’s App Store and Google Play. During this time, alternative app stores have existed, but studios have treated them as a secondary consideration in the West. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "f279946865d5",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Save up to $254: PG Connects Jordan Super Early Bird ends this week",
+  "link": "https://www.pocketgamer.biz/save-up-to-254-pg-connects-jordan-super-early-bird-ends-this-week/",
+  "published": "2026-09-22T14:30:00Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "We're heading back to Jordan's capital city, Amman, for the return of PG Connects Jordan this November 7th and 8th. We'll deliver two days of networking and learning while celebrating one of the most exciting growth markets in the world. Our return to MENA in 2026 – hosted within Amman's exceptional Abdali Boulevard complex – brings developers, publishers, investors, creators and services together",
+  "state": "new"
+ },
+ {
+  "id": "c6a4ac019beb",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
+  "link": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
+  "published": "2026-09-22T14:18:45Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "Activision is developing the next Halo title, and Ninja Theory is being shuttered.",
+  "state": "new"
+ },
+ {
+  "id": "40efd595a667",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure",
+  "link": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+  "published": "2026-09-22T14:06:00Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "Original story: Xbox has transferred legendary UK studio Rare and ownership of the Halo franchise to Activision, announced the imminent closure of Ninja Theory, and enacted sweeping cuts at Halo Studios. The news was announced via an Xbox Wire post this morning, and followed earlier reports of planned layoffs . Read more",
+  "state": "new"
+ },
+ {
+  "id": "60658b782571",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Japan generates $10bn in mobile game revenue despite declining downloads",
+  "link": "https://www.pocketgamer.biz/japan-generates-10bn-in-mobile-game-revenue-despite-declining-downloads/",
+  "published": "2026-09-22T13:23:00Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "Japan generated more than $10 billion in mobile game IAP revenue over the past 12 months. Though this marked a 5.1% year-over-year decline, Japan continued to earn more than double South Korea's games IAP revenue and surpassed Taiwan nearly four times over. In fact, Japan ranked second in Asia, only behind China’s iOS market. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "98bb907710ac",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
+  "link": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+  "published": "2026-09-22T12:33:14Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "Official Rockstar storylines, characters, and other elements from the studio's 'established continuity' are off-limits.",
+  "state": "new"
+ },
+ {
+  "id": "b0c53ea68c8d",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "\"There is no easy answer anymore, there's no kind of playbook\" – Secret Mode is hedging its bets with two very different pillars",
+  "link": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
+  "published": "2026-09-22T12:00:00Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "It's all smiles over at Secret Mode right now. Since breaking free from Sumo Digital (and its parent Tencent) last year, the newly independent UK publisher has been going great guns. Read more",
+  "state": "new"
+ },
+ {
   "id": "e8eb1a0a9109",
   "source": "PocketGamer.biz",
   "category": "news",
@@ -11,6 +132,17 @@
   "state": "new"
  },
  {
+  "id": "fd16e6711df6",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "IO Interactive \"had no choice\" but to delay Switch 2 launch of 007 First Light for a third time",
+  "link": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
+  "published": "2026-09-22T10:55:16Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "IO Interactive said it \"had no choice\" but to delay the launch of 007 First Light on Nintendo Switch 2 for a third time, with the game now set to release in March 2027. Read more",
+  "state": "new"
+ },
+ {
   "id": "7d7c859ddfd9",
   "source": "PocketGamer.biz",
   "category": "news",
@@ -19,6 +151,28 @@
   "published": "2026-09-22T10:00:00Z",
   "collected_at": "2026-09-22T12:05:19Z",
   "summary": "Sanrio will launch its first mobile title under the Sanrio Games brand in January 2027, with pre-registration now underway. Titled Sanrio Kawaii Me Live!, the free-to-play dance and rhythm game will feature Sanrio characters performing songs, alongside character outfit and stage customisation options. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "31269f5eaa4e",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Bungie says it's \"not done with Destiny\", aims to earn back player trust by restoring archived Destiny 2 content",
+  "link": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
+  "published": "2026-09-22T09:43:57Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "Three months after Destiny 2's final update, Bungie has announced plans to reinstate vaulted campaigns, raids, and destinations to regain player trust. Read more",
+  "state": "new"
+ },
+ {
+  "id": "f8b6d533ac77",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Xbox reportedly set to announce second round of layoffs this week",
+  "link": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
+  "published": "2026-09-22T07:55:38Z",
+  "collected_at": "2026-09-23T00:06:05Z",
+  "summary": "UPDATE: Microsoft has confirmed the loss of 268 jobs amid a sweeping reorganisation of its internal studios , including the proposed closure of Ninja Theory. Read more",
   "state": "new"
  },
  {
