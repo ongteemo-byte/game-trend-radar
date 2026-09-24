@@ -1,5 +1,104 @@
 [
  {
+  "id": "e3db863c12c0",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Bethesda boss confirms Obsidian will remain a \"distinct\" team",
+  "link": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+  "published": "2026-09-23T18:47:06Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "Bethesda boss Jill Braff has written to all staff to confirm that Grounded developer Obsidian Entertainment will remain a \"distinct\" team, retaining its existing leadership structure. Read more",
+  "state": "new"
+ },
+ {
+  "id": "4fa60402abda",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
+  "link": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
+  "published": "2026-09-23T18:30:00Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "Discord says it has built an age estimation model based on 'account signals' to determine an user's age group.",
+  "state": "new"
+ },
+ {
+  "id": "1ee3a77f6764",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
+  "link": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+  "published": "2026-09-23T17:03:46Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "Bethesda president Jill Braff is reportedly calling Obsidian's merging with Bethesda 'primarily a change in reporting structure.'",
+  "state": "new"
+ },
+ {
+  "id": "e098d996835c",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Jest hits $1m run-rate after enabling in-app purchases",
+  "link": "https://www.pocketgamer.biz/jest-hits-1m-run-rate-after-enabling-in-app-purchases/",
+  "published": "2026-09-23T14:51:00Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "Texting-powered app store Jest has reached a $1 million gross billing run-rate three months after enabling in-app purchases. The milestone comes as the company launches a second funding programme for mobile games and entertainment apps. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "ebc2e7d33a1a",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Pokémon Go partners with European Space Agency for space-themed event",
+  "link": "https://www.pocketgamer.biz/pokemon-go-partners-with-european-space-agency-for-space-themed-event/",
+  "published": "2026-09-23T14:49:00Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "Pokémon Go has partnered with the European Space Agency (ESA) for a space-themed event across Europe from October 4th 2026 to April 30th 2027. Trainers visiting six participating museums will be able to encounter Astronaut Pikachu and access event-themed gameplay. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "8d510648dc20",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Age of Empires developer World's Edge hit with layoffs following move to Activision",
+  "link": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+  "published": "2026-09-23T13:56:13Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "Age of Empires studio World's Edge has been hit with layoffs following its transition to Activision, with \"just under half\" of employees affected. Read more",
+  "state": "new"
+ },
+ {
+  "id": "5facabaa6b73",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "The EU KIDS Act: What game developers need to know",
+  "link": "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+  "published": "2026-09-23T13:43:08Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "On September 17, the EU Commission published a draft for the proposed EU KIDS Act – which stands for Keeping Internet Digital Spaces Accountable and Trustworthy. The most controversial stipulations only apply to social networks and video sharing platforms, and include a ban for under 13s and restrictions for under 15 year old kids. But other stipulations apply to online games, AI companions, chat ",
+  "state": "new"
+ },
+ {
+  "id": "3419788db517",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda",
+  "link": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
+  "published": "2026-09-23T13:00:00Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "A new game publisher, PUBLSH, has been established by former leadership from marketing agency Petrol. Read more",
+  "state": "new"
+ },
+ {
+  "id": "a5135c917d4b",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem",
+  "link": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+  "published": "2026-09-23T12:55:38Z",
+  "collected_at": "2026-09-24T00:05:44Z",
+  "summary": "PC and PlayStation unit sales increased 13% to 21 million in Japan during the first half of 2026, led by Resident Evil Requiem. Read more",
+  "state": "new"
+ },
+ {
   "id": "a2ad82903304",
   "source": "PocketGamer.biz",
   "category": "news",
