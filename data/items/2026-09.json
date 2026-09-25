@@ -1,5 +1,82 @@
 [
  {
+  "id": "f725cb94b8f1",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
+  "link": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
+  "published": "2026-09-24T19:00:00Z",
+  "collected_at": "2026-09-25T00:06:15Z",
+  "summary": "There will be new Tetris Effect, Beat Saber, and Ace Attorney games coming to the platform as well.",
+  "state": "new"
+ },
+ {
+  "id": "aa295baa81d7",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Former Avalanche Studios chief Natalie Francis joins Massive Entertainment as managing director",
+  "link": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
+  "published": "2026-09-24T17:30:00Z",
+  "collected_at": "2026-09-25T00:06:15Z",
+  "summary": "Francis will step into the role starting October 1st following Thomas Andren's recent appoint as general manager for the creative network.",
+  "state": "new"
+ },
+ {
+  "id": "3c0f2cc10369",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "The WN Conference Cyprus’26 took place in Limassol. Here are the highlights",
+  "link": "https://gameworldobserver.com/2026/09/24/the-wn-conference-cyprus26-took-place-in-limassol-here-are-the-highlights",
+  "published": "2026-09-24T14:45:29Z",
+  "collected_at": "2026-09-25T00:06:15Z",
+  "summary": "Last week, the WN Conference Cyprus’26 took place — the fifth consecutive Cypriot conference for game developers and publishers by WN Media Group. Here’s a recap of how it went and what participants thought about it.",
+  "state": "new"
+ },
+ {
+  "id": "b9b64877d375",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "\"We were born out of the restructuring of an animation company and we always believed in the power of storytelling\"",
+  "link": "https://www.pocketgamer.biz/sea-monster-ceo-glenn-gillis-talks-15-years-of-growth-africas-games-industry-and-what-comes-next/",
+  "published": "2026-09-24T14:34:00Z",
+  "collected_at": "2026-09-25T00:06:15Z",
+  "summary": "Fifteen years ago, Sea Monster was born from an animation company restructuring with a belief that games could do more than entertain. Today, the Cape Town-based studio has developed more than 80 impact games spanning education, entrepreneurship, financial literacy and social change. While the company says the business remains challenging, CEO Glenn Gillis believes the case for impact gaming has b",
+  "state": "new"
+ },
+ {
+  "id": "638d85ca8af1",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Mobile games generate $6.6bn in August as Honor of Kings leads player spending",
+  "link": "https://www.pocketgamer.biz/mobile-games-generate-66bn-in-august-as-honor-of-kings-leads-player-spending/",
+  "published": "2026-09-24T14:32:00Z",
+  "collected_at": "2026-09-25T00:06:15Z",
+  "summary": "Honor of Kings was the world's highest-grossing mobile game in August 2026, while Roblox topped the global download rankings once again. That's according to Sensor Tower's new report which showed that global mobile game consumer spending reached $6.57 billion across the App Store and Google Play during the month, down 1% month-over-month. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "4744c96c7d78",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Golf Clash launches $100,000 Bryson DeChambeau backyard challenge",
+  "link": "https://www.pocketgamer.biz/golf-clash-launches-100000-bryson-dechambeau-backyard-challenge/",
+  "published": "2026-09-24T14:31:00Z",
+  "collected_at": "2026-09-25T00:06:15Z",
+  "summary": "EA’s Golf Clash and two-time US Open Championship winner Bryson DeChambeau are bringing his famous backyard golf challenge into the game. Bryson’s Backyard Games sees 10 golf creators compete on the Par 3 at DeChambeau’s Dallas home, including a blind shot over his house. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "80d14429967e",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation",
+  "link": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
+  "published": "2026-09-24T13:48:19Z",
+  "collected_at": "2026-09-25T00:06:15Z",
+  "summary": "Original story: The Dutch consumer group Stichting Massaschade & Consument (SMC) has filed a class action lawsuit against Epic Games, alleging it has misled young Fortnite players. Read more",
+  "state": "new"
+ },
+ {
   "id": "5212f7ed807b",
   "source": "GamesIndustry.biz",
   "category": "news",
