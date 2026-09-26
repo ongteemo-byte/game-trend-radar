@@ -1,5 +1,93 @@
 [
  {
+  "id": "8658ce41ae8f",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
+  "link": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+  "published": "2026-09-25T18:37:03Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "XDS Spark co-founder Sam Carlisle and GDC Festival of Gaming content marketing manager Beth Elderkin discuss the evolving world of co-development.",
+  "state": "new"
+ },
+ {
+  "id": "78b5572a162a",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Europe's triple-threat for mobile gaming",
+  "link": "https://www.pocketgamer.biz/europes-triple-threat-for-mobile-gaming/",
+  "published": "2026-09-25T16:55:00Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "This article was first published in the PocketGamer.biz newsletter. Subscribe for more content like this straight to your inbox here - you'll even get 10% discounts on PGC events. There was a lot of concern about the impending announcement around the European Union’s Digital Fairness Act.If you’ll recall, that was the proposed regulation that Supercell CEO Ilkka Paananen said could kill the Europe",
+  "state": "new"
+ },
+ {
+  "id": "8fb9ad63c874",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Xbox's major reset continues and reflections on AppLovin's studio acquisitions | Week in Views",
+  "link": "https://www.pocketgamer.biz/xboxs-major-reset-continues-and-reflections-on-applovins-studio-acquisitions-week-in-views/",
+  "published": "2026-09-25T16:22:00Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "The games industry moves quickly and while stories may come and go there are some that we just can't let go of… So, to give those particularly thorny topics a further going over we've created a weekly digest where the members of the PocketGamer.biz team share their thoughts and go that little bit deeper on some of the more interesting things that have happened in mobile gaming in the past week. ..",
+  "state": "new"
+ },
+ {
+  "id": "30ee8ab037e0",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Here is the full line-up for the GamesIndustry.biz HR Summit 2026",
+  "link": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
+  "published": "2026-09-25T15:30:44Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "The full line-up of this year's GamesIndustry.biz HR Summit has been announced, featuring keynotes from Sarah Venables, founder of the HR Confidence Club; Jonny Hopper, CEO of Glowmade Studio; and Harvey Elliott and Carmen Martino of Playstack. The event is once again sponsored by Amiqus. Read more",
+  "state": "new"
+ },
+ {
+  "id": "94b883c1acf3",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "Epic Games is seeking to claim 100 million euros due to “dark patterns” in Fortnite",
+  "link": "https://gameworldobserver.com/2026/09/25/epic-games-is-seeking-to-claim-100-million-euros-due-to-dark-patterns-in-fortnite",
+  "published": "2026-09-25T14:08:50Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "The company Epic Games may soon face a new lawsuit. It has come under scrutiny from the Dutch consumer protection group Stichting Massaschade & Consument, which has filed a complaint against it.",
+  "state": "new"
+ },
+ {
+  "id": "79899d4f163a",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive",
+  "link": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
+  "published": "2026-09-25T13:56:43Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "Danish studio Trophy Games has acquired Airport Simulator: First Class developer Playrion from Paradox Interactive. Read more",
+  "state": "new"
+ },
+ {
+  "id": "6e40f289c1a3",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+  "link": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+  "published": "2026-09-25T13:07:11Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "Meta has revealed two AI-powered game tools that let players develop 2D and 3D games using prompts on mobile devices and browsers. Read more",
+  "state": "new"
+ },
+ {
+  "id": "162d090ce990",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "The Xbox reset doesn't have an end date | Opinion",
+  "link": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+  "published": "2026-09-25T13:00:00Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "Asha Sharma marked the conclusion of her first hundred days as Xbox CEO with a public blog post in which she called for the next hundred days to be a \"reset\" of the business. Highlighting the division's low \"accountability margin\" and declining revenues, along with macro factors like the hardware component crisis, Sharma's post was a fairly obvious omen of layoffs to come – corporate executives do",
+  "state": "new"
+ },
+ {
   "id": "d9c2a34800f3",
   "source": "GamesIndustry.biz",
   "category": "news",
@@ -8,6 +96,17 @@
   "published": "2026-09-25T12:00:00Z",
   "collected_at": "2026-09-25T12:05:54Z",
   "summary": "We might be long past the days of games companies raising eye-watering figures on Kickstarter, but the platform is still a viable way to raise money to fund – at last part of – your game. Read more",
+  "state": "new"
+ },
+ {
+  "id": "430926a986d3",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming",
+  "link": "https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/",
+  "published": "2026-09-25T11:38:00Z",
+  "collected_at": "2026-09-26T00:05:41Z",
+  "summary": "Chip manufacturer Qualcomm has revealed two new premium mobile chips designed to power the next generation of smartphones and mobile experiences. The company said its Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6 are built around agentic AI, enabling faster, more personalised and adaptive experiences. ... [ MORE ]",
   "state": "new"
  },
  {
