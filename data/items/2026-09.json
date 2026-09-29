@@ -1,5 +1,104 @@
 [
  {
+  "id": "32b935ea5660",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "National Videogame Museum launches UK-wide survey on game preservation",
+  "link": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
+  "published": "2026-09-28T18:14:39Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "The National Videogame Museum has launched a UK-wide survey aimed at mapping the state of video game preservation across the country. Read more",
+  "state": "new"
+ },
+ {
+  "id": "eaec828dbecc",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "\"It's a nice story to tell\": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6",
+  "link": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
+  "published": "2026-09-28T18:09:25Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "Rebecka Coutaz joined DICE at a very difficult point in the storied Swedish developer's history. Read more",
+  "state": "new"
+ },
+ {
+  "id": "2e71b2503810",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Report: Sony surveying developers about dropping PlayStation disc support",
+  "link": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+  "published": "2026-09-28T15:23:57Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "Sony Interactive Entertainment is reportedly surveying developers to find out their thoughts on the decision to end disc support for its PlayStation console. Read more",
+  "state": "new"
+ },
+ {
+  "id": "cfd15b7c7ce6",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "How Brazil’s games industry is building its global future",
+  "link": "https://www.pocketgamer.biz/how-brazils-games-industry-is-building-its-global-future/",
+  "published": "2026-09-28T14:30:00Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "Brazil’s games industry has long been on a mission to promote itself on the global stage. Through BIG Festival and now Gamescom LATAM, the sector aims to engage consumers with local and international games. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "99330907464d",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "King signs collective agreement after workers threaten strike",
+  "link": "https://www.pocketgamer.biz/king-signs-collective-agreement-after-workers-threaten-strike/",
+  "published": "2026-09-28T13:37:00Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "Candy Crush developer King has signed a collective bargaining agreement with Swedish unions Engineers of Sweden and Unionen after employees threatened to strike over stalled negotiations. The strike was due to begin on September 25th, 2026, following talks that had been ongoing since May 2025. The strike notice has now been withdrawn. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "b6ea0991e2e1",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Minecraft World to open in UK with world-first hotel and rollercoaster",
+  "link": "https://www.pocketgamer.biz/minecraft-world-to-open-in-uk-with-world-first-hotel-and-rollercoaster/",
+  "published": "2026-09-28T13:25:00Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "Merlin Entertainments and Mojang Studios have revealed two new additions to Minecraft World at Chessington World of Adventures Resort in 2027. The world’s first Minecraft hotel and a new rollercoaster called Escape the Nether will arrive next year after they were first announced in March earlier this year. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "db6d2abb7342",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "Games with which tags are popular on the Steam Deck — statistics from GameDiscoverCo",
+  "link": "https://gameworldobserver.com/2026/09/28/games-with-which-tags-are-popular-on-the-steam-deck-statistics-from-gamediscoverco",
+  "published": "2026-09-28T13:02:10Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "The founder of the analytics service GameDiscoverCo, Simon Carless, attempted to determine which genres are popular among Steam Deck owners. To do this, he studied user reviews on Steam.",
+  "state": "new"
+ },
+ {
+  "id": "93649c43197c",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Strengthening the sell-side voice in agentic advertising: TeqBlaze joins AgenticAdvertising.org",
+  "link": "https://www.pocketgamer.biz/strengthening-the-sell-side-voice-in-agentic-advertising-teqblaze-joins-agenticadvertisingorg/",
+  "published": "2026-09-28T13:00:00Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "TeqBlaze, the independent ad tech vendor, has joined AgenticAdvertising.org (AAO), formalising work the company has been doing on the Ad Context Protocol (AdCP) since earlier this year. TeqBlaze has been running Sales Agent MVP, a free test environment open to publishers and SSPs. Sellers can add inventory through a simple interface or a TeqMate AI prompt. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "d626ec8f02a9",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
+  "link": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
+  "published": "2026-09-28T12:16:59Z",
+  "collected_at": "2026-09-29T00:06:50Z",
+  "summary": "The company has also divested or shuttered a number of key studios such as Double Fine, Compulsion, Tango Gameworks, and more in recent years.",
+  "state": "new"
+ },
+ {
   "id": "99df05e741bd",
   "source": "PocketGamer.biz",
   "category": "news",
