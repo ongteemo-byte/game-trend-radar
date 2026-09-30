@@ -1,5 +1,137 @@
 [
  {
+  "id": "0fdc5b829ff2",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Steam's discounts and events tab will soon be fully algorithm-driven",
+  "link": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+  "published": "2026-09-29T21:30:00Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "Steam announced a new set of changes for its discounts and events tab that will impact which games players see.",
+  "state": "new"
+ },
+ {
+  "id": "4294c3660fd0",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
+  "link": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
+  "published": "2026-09-29T20:00:00Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "'If you’re a developer, studio, or creator working on something interesting in horror, give me a shout!'",
+  "state": "new"
+ },
+ {
+  "id": "b61364fb1ce9",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Four years in: How eGames Lab has helped Portugal’s games industry grow",
+  "link": "https://www.pocketgamer.biz/four-years-in-how-egames-lab-has-helped-portugals-games-industry-grow/",
+  "published": "2026-09-29T19:02:00Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "Founded in 2022, eGames Lab is a consortium of 22 entities consisting of 14 commercial organisations, two Academic institutions and six government or trade organisations based across Portugal, Madeira and the Azores. Together they are working to provide a global focus on the region’s games industry sector. Four years in, how has eGames Lab helped Portugal’s games industry grow? ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "2f6f428bd8df",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Naughty Dog is working on new The Last Of Us 'projects'",
+  "link": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+  "published": "2026-09-29T17:52:48Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "Naughty Dog is signaling what comes next for the studio after it finishes Intergalactic.",
+  "state": "new"
+ },
+ {
+  "id": "9b0dfddd83c8",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Mark Pincus reveals Zynga nearly acquired Supercell for $400m in 2012",
+  "link": "https://www.pocketgamer.biz/zyngas-mark-pincus-reveals-company-nearly-acquired-supercell-for-400m-in-2012/",
+  "published": "2026-09-29T16:00:00Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "Zynga founder Mark Pincus claimed the publisher had the chance to acquire Supercell for $400 million back in 2012, but his board rejected the deal after the company struggled with previous acquisitions. Speaking on the Deconstructor of Fun podcast, Pincus shared that he had a handshake agreement with Supercell CEO Ilkka Paananen to acquire the Finnish developer for $400 million in cash. ... [ MORE",
+  "state": "new"
+ },
+ {
+  "id": "3ab4159610bd",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
+  "link": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+  "published": "2026-09-29T15:33:32Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "'It has to feel like it’s on you to make a decision on what to do with those elements that you see within the world.'",
+  "state": "new"
+ },
+ {
+  "id": "bf26bde64f27",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "How indie studios can survive industry volatility | Opinion",
+  "link": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
+  "published": "2026-09-29T14:39:42Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "Denis Fedorov founded Unfrozen, the studio behind Iratus: Lord of the Dead and Heroes of Might & Magic: Olden Era. He also leads Nova Assembly, a holding company co-owned and run by five studios that share development and marketing expertise, while retaining their creative freedom. Read more",
+  "state": "new"
+ },
+ {
+  "id": "6dd69fa37b92",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "The remaster of The Witcher 3 will earn millions of dollars by the end of the year, according to Polish analysts",
+  "link": "https://gameworldobserver.com/2026/09/29/the-remaster-of-the-witcher-3-will-earn-millions-of-dollars-by-the-end-of-the-year-according-to-polish-analysts",
+  "published": "2026-09-29T14:16:23Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "The release of the updated version of the third “The Witcher” will bring a hefty sum to CD PROJEKT RED, convinced analyst Krzysztof Tkocz from Erste Securities Polska.",
+  "state": "new"
+ },
+ {
+  "id": "f257e5e155cb",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
+  "link": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
+  "published": "2026-09-29T14:10:05Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "Aleksander Grøndal admits Embark has struggled to balance the needs of millions of players with those of its workforce.",
+  "state": "new"
+ },
+ {
+  "id": "8f841db3ffa9",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "SecretSauce Labs' Simon Davis on leaving games behind and solving AI's brand consistency problem",
+  "link": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+  "published": "2026-09-29T13:00:00Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "Wearemighty is leaving game development behind and rebranding as SecretSauce Labs, shifting its focus entirely to AI content technology after three years spent developing tools to solve a production problem that began inside games. The company, previously known as Mighty Bear Games before becoming wearemighty in January 2026, developed games including Disney Melee Mania, Mighty Action Heroes and B",
+  "state": "new"
+ },
+ {
+  "id": "aaaa9997dd82",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
+  "link": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+  "published": "2026-09-29T12:30:00Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "Grand Theft Auto 6 is set to launch on November 19, and it's a fairly safe bet that it will be the biggest game launch of all time. Read more",
+  "state": "new"
+ },
+ {
+  "id": "d04021a645a4",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "National Videogame Museum launches UK-wide game preservation survey",
+  "link": "https://www.pocketgamer.biz/national-videogame-museum-launches-uk-wide-game-preservation-survey/",
+  "published": "2026-09-29T12:27:00Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "The National Videogame Museum has launched a UK-wide survey to map the state of video game preservation across the country and identify material at risk of being lost. As reported by GamesIndustry.biz, the survey is called Behind the Screens, and is being conducted in partnership with trade body Ukie and funded by the BFI’s Screen Heritage Fund. ... [ MORE ]",
+  "state": "new"
+ },
+ {
   "id": "d6e3e36d9964",
   "source": "PocketGamer.biz",
   "category": "news",
@@ -85,6 +217,17 @@
   "published": "2026-09-29T08:30:00Z",
   "collected_at": "2026-09-29T12:06:28Z",
   "summary": "Pocket Gamer Connects London is always our biggest and most popular conference of the year. In 2026, we welcomed c. 3,000 attendees from 1,600 companies across 60 countries. Returning to Central London's The Brewery on January 18th and 19th, 2027, we’re improving on an already unmissable games industry offering, with two packed days to network, discover, pitch, deal and learn from 290 of the world",
+  "state": "new"
+ },
+ {
+  "id": "48bb57414c12",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Why you still can’t afford to overlook the MENA market",
+  "link": "https://www.pocketgamer.biz/why-you-still-cant-afford-to-overlook-the-mena-market/",
+  "published": "2026-09-29T04:00:00Z",
+  "collected_at": "2026-09-30T00:06:52Z",
+  "summary": "MENA’s games market momentum can no longer be ignored - it's one of scale, diversity and above all, growth. For game companies looking for emerging areas of potential, especially in mobile, esports and community-based games, it offers a compelling opportunity far beyond short term goals. ... [ MORE ]",
   "state": "new"
  },
  {
