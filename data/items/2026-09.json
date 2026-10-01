@@ -1,5 +1,181 @@
 [
  {
+  "id": "1c43c7c71cba",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
+  "link": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
+  "published": "2026-09-30T19:37:37Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Suda51 strikes out on his own again.",
+  "state": "new"
+ },
+ {
+  "id": "f15c027234a5",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment",
+  "link": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+  "published": "2026-09-30T19:20:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Ubisoft has announced that its Creative House 2 business unit, which houses Tom Clancy's The Division, Ghost Recon, and Splinter Cell alongside \"new original IP including March of Giants\", will henceforth be known as Massive Entertainment, adopting the 29-year-old brand of the Swedish studio that originated the Divison franchise. That original studio remains part of the Creative House that takes i",
+  "state": "new"
+ },
+ {
+  "id": "488061e03794",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
+  "link": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+  "published": "2026-09-30T18:59:09Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Dutch police have arrested a 24-year-old Amsterdam man in connection with an investigation into ShinyHunters, the hacking group the FBI says was behind a data breach that exposed confidential GTA Online revenue figures earlier this year. Read more",
+  "state": "new"
+ },
+ {
+  "id": "97a696e1b199",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
+  "link": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+  "published": "2026-09-30T17:54:59Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "A petition is the first action.",
+  "state": "new"
+ },
+ {
+  "id": "48fe2cc1443c",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Xbox CEO Asha Sharma insists \"Xbox is not for sale\"",
+  "link": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
+  "published": "2026-09-30T17:43:08Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Xbox CEO Asha Sharma has pushed back on speculation that Microsoft could spin off its games division, telling the New York Times : \"Xbox is not for sale.\" Read more",
+  "state": "new"
+ },
+ {
+  "id": "5b5ef8ac9f56",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch",
+  "link": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
+  "published": "2026-09-30T17:01:57Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "The Witcher 3: Wild Hunt has hit its highest concurrent player count on Steam since launch following the launch of CD Projekt Red's free Remastered edition. Read more",
+  "state": "new"
+ },
+ {
+  "id": "6cfba3f8c9bb",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Europe's CPC targets King, Supercell, Mojang and others over virtual currencies",
+  "link": "https://www.pocketgamer.biz/europes-cpc-targets-king-supercell-mojang-and-others-over-virtual-currencies/",
+  "published": "2026-09-30T15:15:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Europe's Consumer Protection Cooperation Network is taking \"coordinated actions\" against a string of top games companies as it looks to investigate compliance with 'Key Principles' on in-game virtual currencies announced last year. The CPC is a network of national authorities responsible for the enforcement of EU consumer protection laws. It has asked Activision Blizzard, Crytek, InnoGames, King, ",
+  "state": "new"
+ },
+ {
+  "id": "6de33e124a48",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "MTG wants to double its size while leveraging AI",
+  "link": "https://www.pocketgamer.biz/mtg-wants-to-double-its-size-while-leveraging-ai/",
+  "published": "2026-09-30T14:45:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Swedish digital entertainment firm Modern Times Group wants to double in size over the next three to five years - all while it plans to scale up AI tooling. MTG has grown its games business substantially over the years. The company's portfolio includes the likes of InnoGames, Snowprint Studios, Hutch, Ninja Kiwi, Futureplay, PlaySimple and Plarium. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "8304cc500cf1",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "“The technology works, but the infrastructure doesn't”: The Mobile Mavens on the future of cloud gaming",
+  "link": "https://www.pocketgamer.biz/the-technology-works-but-the-infrastructure-doesnt-the-mobile-mavens-on-the-future-of-cloud-gaming/",
+  "published": "2026-09-30T14:40:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Cloud gaming has long aimed to change how we play by offering access to games without expensive hardware and letting players move between devices more easily. But despite continued technological development, it has yet to become as widely used as some expected. Questions remain about the quality of the experience and whether the economics of streaming games can work at scale. However, rising hardw",
+  "state": "new"
+ },
+ {
+  "id": "560edfc6349f",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "My.Games’ Hunting Rivals surpasses $3m revenue and 3m installs",
+  "link": "https://www.pocketgamer.biz/mygames-hunting-rivals-surpasses-3m-revenue-and-3m-installs/",
+  "published": "2026-09-30T14:35:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "My.Games’ free-to-play mobile title Hunting Rivals has generated more than $3 million in revenue and surpassed 3m installs since launching in May 2026. The multiplayer first-person hunting and sniper simulator has also reached 1m monthly active users, according to My.Games. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "e71ae7bec4cc",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "Valve will make the “Discounts and Events” section on Steam more personalized",
+  "link": "https://gameworldobserver.com/2026/09/30/valve-will-make-the-discounts-and-events-section-on-steam-more-personalized",
+  "published": "2026-09-30T14:28:13Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Recently, analyst Simon Carless from GameDiscoverCo noted that Valve has decided to revamp the discount section on Steam. Now, the company has publicly announced the upcoming changes.",
+  "state": "new"
+ },
+ {
+  "id": "be44b55069c9",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Grasshopper Manufacture becomes independent as it splits from NetEase Games",
+  "link": "https://www.gamesindustry.biz/grasshopper-manufacture-becomes-independent-as-it-splits-from-netease-games",
+  "published": "2026-09-30T14:06:09Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Romeo is a Dead Man developer Grasshopper Manufacture has announced its separation from NetEase Games to become an independent studio. Read more",
+  "state": "new"
+ },
+ {
+  "id": "649fe08a217f",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "How to run an indie game studio: Part 1, What is a studio?",
+  "link": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
+  "published": "2026-09-30T14:00:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Making games is hard. Most indie studios only manage to release one game, and when they do, odds are it's not going to be a runaway success. As an indie studio founder, then, you'd be forgiven for putting everything you have into your game, in an effort to increase your odds of success. Read more",
+  "state": "new"
+ },
+ {
+  "id": "b68b8ebac752",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Zynga reportedly almost acquired Supercell for $400m in 2012, but deal fell through following failure of OMGPop",
+  "link": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+  "published": "2026-09-30T13:41:02Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Supercell was almost acquired by Zynga for $400 million in 2012, according to founder and former CEO Mark Pincus. Read more",
+  "state": "new"
+ },
+ {
+  "id": "db9612dc2aad",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Dune Awakening's creative director on copying Hollywood, in-game advertising, and why style beats photorealism",
+  "link": "https://www.gamesindustry.biz/dune-awakenings-creative-director-on-copying-hollywood-in-game-advertising-and-why-style-beats-photorealism",
+  "published": "2026-09-30T12:30:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "The fun thing about making a game based on a big movie property is that you get to hobnob with Hollywood royalty. The bad news is that it's through Jira. Read more",
+  "state": "new"
+ },
+ {
+  "id": "de253edbaf2e",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Global game content revenue to reach $229.1bn by 2030",
+  "link": "https://www.pocketgamer.biz/global-game-content-revenue-to-reach-2291bn-by-2030/",
+  "published": "2026-09-30T12:16:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Global game content revenue is projected to increase from $204.4 billion in 2025 to $229.1bn in 2030, a 2.3% compound annual growth rate. As reported by GamesIndustry.biz, the data comes from S&P Global Market Intelligence Kagan, which also found that cloud gaming is projected to be the fastest-growing segment. ... [ MORE ]",
+  "state": "new"
+ },
+ {
   "id": "7d52c04f4b2d",
   "source": "PocketGamer.biz",
   "category": "news",
@@ -8,6 +184,17 @@
   "published": "2026-09-30T11:44:00Z",
   "collected_at": "2026-09-30T12:06:56Z",
   "summary": "We’re thrilled to announce Nordic Game has joined PG Connects Nordics as one of the event's partners for 2026. Each spring, Nordic Game brings together thousands of developers, publishers, investors, students and creatives for four days of networking, inspiration, learning and business opportunities. It’s a ‘home turf’ meeting place for the highly successful games industries of Denmark, Finland, I",
+  "state": "new"
+ },
+ {
+  "id": "083f59874cb6",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Mario Kart Tour shuts down after seven years on mobile",
+  "link": "https://www.pocketgamer.biz/mario-kart-tour-shuts-down-after-seven-years-on-mobile/",
+  "published": "2026-09-30T11:43:00Z",
+  "collected_at": "2026-10-01T00:06:46Z",
+  "summary": "Nintendo has shut down Mario Kart Tour, with the mobile racer becoming unplayable after its servers went offline at 11:00 PM Pacific on September 29th. The game is no longer accessible even for players who already have it installed, and Nintendo has confirmed that no offline version will be released. ... [ MORE ]",
   "state": "new"
  },
  {
