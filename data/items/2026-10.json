@@ -1,5 +1,71 @@
 [
  {
+  "id": "e3aa42af9702",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "'Xbox is not for sale,' CEO Asha Sharma says",
+  "link": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+  "published": "2026-10-01T18:37:27Z",
+  "collected_at": "2026-10-02T00:06:26Z",
+  "summary": "The new CEO said made a particular proclamation while speaking with New York Times.",
+  "state": "new"
+ },
+ {
+  "id": "3a47ec9349fc",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Leus launches Cohort Purchasing platform for mobile games",
+  "link": "https://www.pocketgamer.biz/leus-launches-cohort-purchasing-platform-for-mobile-games/",
+  "published": "2026-10-01T17:01:00Z",
+  "collected_at": "2026-10-02T00:06:26Z",
+  "summary": "Data-driven UA financing and analytics outfit Leus has launched a new Cohort Purchasing platform for mobile games. This acts as a way to enable publishers to acquire users prior to generating revenue that would then be reinvested later into marketing campaigns. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "e20187195f49",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Warner Bros. Games on building a long-term future for Game of Thrones: Dragonfire",
+  "link": "https://www.pocketgamer.biz/warner-bros-games-on-building-a-long-term-future-for-game-of-thrones-dragonfire/",
+  "published": "2026-10-01T14:30:00Z",
+  "collected_at": "2026-10-02T00:06:26Z",
+  "summary": "Warner Bros. Games launched Game of Thrones: Dragonfire globally in June, bringing its House of the Dragon-inspired strategy game to iOS and Android shortly before the third season of HBO’s series began. The title puts players in the role of a dragonrider during the Targaryen civil war, combining territory-based strategy and social gameplay with characters, dragons and events from the wider House ",
+  "state": "new"
+ },
+ {
+  "id": "7515ff7f186e",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency",
+  "link": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
+  "published": "2026-10-01T14:15:37Z",
+  "collected_at": "2026-10-02T00:06:26Z",
+  "summary": "On 30 September 2026, the Consumer Protection Cooperation (CPC) Network launched coordinated actions against nine video games companies. Read more",
+  "state": "new"
+ },
+ {
+  "id": "58fd38709d3f",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Ubisoft Workers of Montreal Union petition to \"preserve hybrid work\" secures over 300 signatures",
+  "link": "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures",
+  "published": "2026-10-01T13:28:21Z",
+  "collected_at": "2026-10-02T00:06:26Z",
+  "summary": "The Ubisoft Workers of Montreal Union have launched a petition to \"preserve hybrid work\" , which has reached more than 300 signatures . Read more",
+  "state": "new"
+ },
+ {
+  "id": "f4c9bb76e6fd",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios",
+  "link": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+  "published": "2026-10-01T13:00:00Z",
+  "collected_at": "2026-10-02T00:06:26Z",
+  "summary": "Layer, the agentic creative platform for game studios, has launched Playables, which builds end-to-end, network-ready HTML5 playable ads in hours rather than weeks. Playable ads consistently rank among the highest-converting formats for mobile user acquisition, yet limited production resources mean only tier-one titles typically have the resources to support them. ... [ MORE ]",
+  "state": "new"
+ },
+ {
   "id": "807fc1d37166",
   "source": "PocketGamer.biz",
   "category": "news",
