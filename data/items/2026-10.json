@@ -1,5 +1,104 @@
 [
  {
+  "id": "43bfd253a89e",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Reigns developer Nerial enters 'hibernation mode,' lays off staff",
+  "link": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
+  "published": "2026-10-02T21:31:04Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "The studio that gave birth to Reigns is ending operations—for now.",
+  "state": "new"
+ },
+ {
+  "id": "e768f3ea972b",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Mobile tracker claims, the Supercell deal that never happened, Mario Kart Tour's closure and AppLovin vs Unity | Week in Views",
+  "link": "https://www.pocketgamer.biz/mobile-tracker-claims-the-supercell-deal-that-never-happened-mario-kart-tours-closure-and-applovin-vs-unity-week-in-views/",
+  "published": "2026-10-02T16:00:00Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "The games industry moves quickly and while stories may come and go there are some that we just can't let go of… So, to give those particularly thorny topics a further going over we've created a weekly digest where the members of the PocketGamer.biz team share their thoughts and go that little bit deeper on some of the more interesting things that have happened in mobile gaming in the past week. ..",
+  "state": "new"
+ },
+ {
+  "id": "07b778813e03",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Sony's consultation on physical media: better late than never | Opinion",
+  "link": "https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion",
+  "published": "2026-10-02T15:19:56Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "The news that Sony is surveying its development partners to get their input on its decision to end support for physical game releases ( first reported by Moore's Law is Dead ) is a little odd, at least from a sequencing perspective. You'd generally imagine that talking to your most important business partners would be something to be done before making a major public announcement of an enormous ch",
+  "state": "new"
+ },
+ {
+  "id": "190639735fae",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "In pictures: the Best Places To Work Awards 2026",
+  "link": "https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026",
+  "published": "2026-10-02T14:55:28Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "Last night saw the reveal of this year's GamesIndustry.biz Best Places To Work Awards UK , which returned to the Royal Institution in London at the end of the GamesIndustry.biz HR Summit. The awards were generously sponsored by Amiqus, Playground Games, IO Interactive, Games London and Special Effect. Read more",
+  "state": "new"
+ },
+ {
+  "id": "48ce1e69e52c",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
+  "link": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+  "published": "2026-10-02T14:29:12Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "The GamesIndustry.biz HR Summit took place on October 1, and one topic that came up again and again at sessions throughout the day was generative AI and the impact it's having on the workplace. Read more",
+  "state": "new"
+ },
+ {
+  "id": "066a71a3834b",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite",
+  "link": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+  "published": "2026-10-02T13:54:44Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "Bungie co-founder Jason Jones and Destiny 2 narrative director Margaret Stohl have launched a new transmedia studio called Stone Kite. Read more",
+  "state": "new"
+ },
+ {
+  "id": "c988d801348d",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "Disney is not planning to purchase Epic Games — at least not at the moment",
+  "link": "https://gameworldobserver.com/2026/10/02/disney-is-not-planning-to-purchase-epic-games-at-least-not-at-the-moment",
+  "published": "2026-10-02T13:33:45Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "In the spring, rumors surfaced suggesting that Disney’s leadership would be open to acquiring Epic Games if it ever decided to seek a buyer. Half a year later, Disney’s President and Creative Director Dana Walden partially denied these rumors.",
+  "state": "new"
+ },
+ {
+  "id": "ba1d26c36653",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "In-game vs. web store: How to price and package for D2C without breaking your game economy",
+  "link": "https://www.pocketgamer.biz/in-game-vs-web-store-how-to-price-and-package-for-d2c-without-breaking-your-game-economy/",
+  "published": "2026-10-02T13:00:00Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "Only 2% to 3% of players will ever spend money in many mobile games and getting that first purchase is the hardest challenge in game monetisation. It gets even harder when you’re asking a player to step outside of the app to make it. That tension sits at the heart of a direct-to-consumer (D2C) pricing strategy. Publishers who manage it well build thriving web stores. Those who don’t either leave m",
+  "state": "new"
+ },
+ {
+  "id": "c13b804011c4",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Winners of the UK Best Places To Work Awards 2026 revealed",
+  "link": "https://www.gamesindustry.biz/winners-of-the-uk-best-places-to-work-awards-2026-revealed",
+  "published": "2026-10-02T12:56:58Z",
+  "collected_at": "2026-10-03T00:06:36Z",
+  "summary": "The UK Best Places to Work Awards 2026 took place at the Royal Institution in London on October 1, with special awards going to Dink, Hangar 13, Jagex: The RuneScape Company, NaturalMotion Games, Rare, and Snap Finger Click. Read more",
+  "state": "new"
+ },
+ {
   "id": "ee17748a19e5",
   "source": "GamesIndustry.biz",
   "category": "news",
