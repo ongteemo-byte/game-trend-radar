@@ -1,5 +1,38 @@
 [
  {
+  "id": "9940bd970e67",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Gravity Well lays off more than 40 developers after losing its funding",
+  "link": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+  "published": "2026-10-07T20:30:32Z",
+  "collected_at": "2026-10-08T03:41:09Z",
+  "summary": "Gravity Well, an independent studio founded by Respawn Entertainment alumni, has let go of the majority of its team after losing its funding. Read more",
+  "state": "new"
+ },
+ {
+  "id": "b1bfe8426699",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
+  "link": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+  "published": "2026-10-07T19:41:33Z",
+  "collected_at": "2026-10-08T03:41:09Z",
+  "summary": "Star Wars Zero Company developer Bit Reactor has started bringing back staff it furloughed ahead of the game's launch. Read more",
+  "state": "new"
+ },
+ {
+  "id": "4361ea68656c",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
+  "link": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+  "published": "2026-10-07T19:15:58Z",
+  "collected_at": "2026-10-08T03:41:09Z",
+  "summary": "Double Counter, a service that protects Discord servers from raids and alt accounts, has suffered a data breach that exposed about 1 million email addresses, as well as Discord IDs and IP addresses for millions more users. Read more",
+  "state": "new"
+ },
+ {
   "id": "b59aad393573",
   "source": "Game Developer",
   "category": "news",
