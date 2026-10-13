@@ -1,5 +1,126 @@
 [
  {
+  "id": "93f956f78158",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
+  "link": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+  "published": "2026-10-13T17:00:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "Google Play has announced an update to app discoverability called Game Finder using the latest Google AI tech, tailored to each player’s gameplay habits. Game Finder gives recommendations based on a user’s interests. This includes favourite genres and mechanics - recommending a squad builder because a player already enjoys them, for example. This has been described as \"gamer DNA\", an analysis of h",
+  "state": "new"
+ },
+ {
+  "id": "669e1083ff84",
+  "source": "Game World Observer",
+  "category": "news",
+  "title": "“No more hand-written code”: Epic Games Decides to Actively Utilize AI in Development",
+  "link": "https://gameworldobserver.com/2026/10/13/no-more-hand-written-code-epic-games-decides-to-actively-utilize-ai-in-development",
+  "published": "2026-10-13T13:57:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "Epic Games is now adopting an AI-first approach, focusing on artificial intelligence technologies.",
+  "state": "new"
+ },
+ {
+  "id": "04f48efc9978",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
+  "link": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
+  "published": "2026-10-13T13:15:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "Andrew Eiche also claims layoffs are becoming commonplace within the VR industry because some companies refuse to meet audiences with what they want.",
+  "state": "new"
+ },
+ {
+  "id": "d0989dfa8460",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Exclusive: Turkish developer Flow Games secures $46m in funding package led by Tencent",
+  "link": "https://www.pocketgamer.biz/exclusive-turkish-developer-flow-games-raises-46m-in-funding-package-led-by-tencent/",
+  "published": "2026-10-13T13:14:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "Turkish mobile games developer Flow Games has secured a $46 million funding package, with approximately three-quarters of that sum coming from Tencent, according to a source familiar with the matter who spoke to PocketGamer.biz. The Istanbul-based studio is behind Smash Fest, a physics-based mobile shooter that has seen significant download growth in recent months, according to AppMagic estimates.",
+  "state": "new"
+ },
+ {
+  "id": "c052e1aebf95",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Maysalward founder talks 2026 MENA games industry: \"Capital on its own has never created a games industry anywhere\"",
+  "link": "https://www.pocketgamer.biz/maysalward-founder-talks-2026-mena-games-industry-capital-on-its-own-has-never-created-a-games-industry-anywhere/",
+  "published": "2026-10-13T12:33:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "The MENA region has seen impressive growth in recent years, with MENA-3 (Saudi Arabia, UAE and Egypt) in particular projected to reach $3 billion in player spending by 2030. Amid the region’s development and opportunities, there are also challenges. So, ahead of Pocket Gamer Connects Jordan on November 7th and 8th, we speak with Maysalward founder and CEO Nour Khrais for the latest market perspect",
+  "state": "new"
+ },
+ {
+  "id": "1076718da946",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel",
+  "link": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+  "published": "2026-10-13T12:30:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "If you can't understand something, you can't fix it. That's the motivation behind a new platform that aims to cut through the noise of Steam reviews and find out what players really feel about a game, what the developers need to address, and even what game they should think about making next. Read more",
+  "state": "new"
+ },
+ {
+  "id": "447b48616934",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "A guide to six regulatory risks shaping games in 2026",
+  "link": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+  "published": "2026-10-13T11:25:38Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "Dr Simon Hembt is counsel at Bird & Bird in Frankfurt, Germany. He advises games companies on IP, AI/tech, and media regulation. He co-edited Bird & Bird's Game Plan 2026 report. Read more",
+  "state": "new"
+ },
+ {
+  "id": "cf1afeda90ec",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Making games now vs then: Nordic veterans on 25 years of changing practices",
+  "link": "https://www.pocketgamer.biz/making-games-then-now-25-years-changing-practices/",
+  "published": "2026-10-13T11:02:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "At Pocket Gamer Connects Nordics in Helsinki on October 20th to 21st, the panel “Making Games Then & Now: 25 Years Of Changing Practices” will revisit the turning points that shaped game development from the 2000s to the 2020s. Some are global, some distinctly Nordic, and others are deeply personal. Ahead of the event, we asked some of our panellists what has changed most since they started out, w",
+  "state": "new"
+ },
+ {
+  "id": "337962ad98b8",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "BAFTA awards over £270,000 to support 112 emerging creatives",
+  "link": "https://www.pocketgamer.biz/bafta-awards-over-270000-to-support-112-emerging-creatives/",
+  "published": "2026-10-13T09:43:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "BAFTA has awarded more than £270,000 in grants to 112 emerging creatives across the UK and North America through its 2026 bursary and scholarship programmes. The funding is intended to support early-career talent who are pursuing careers in film, games, and television. This year, 100 creatives will receive support through the Prince William BAFTA Bursary, a 40% increase on last year. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "e2398c6963cd",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Apple brings seven indie games to iPhone and iPad for Indie Games Week",
+  "link": "https://www.pocketgamer.biz/apple-brings-seven-indie-games-to-iphone-and-ipad-for-indie-games-week/",
+  "published": "2026-10-13T09:26:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "Apple has launched Indie Games Week on the App Store, showcasing seven indie games coming to iPhone and iPad, including PC and console titles Sifu and No Man’s Sky. The line-up also includes Vampire Crawlers, Little Kitty, Big City, 9 King, Dome Keeper and Yes, Your, Grace 2: Snowfall. ... [ MORE ]",
+  "state": "new"
+ },
+ {
+  "id": "122f39c91ff2",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "PG Connects Nordics: The editorial team's can't-miss sessions",
+  "link": "https://www.pocketgamer.biz/pg-connects-nordics-the-editorial-teams-cant-miss-sessions/",
+  "published": "2026-10-13T08:30:00Z",
+  "collected_at": "2026-10-13T18:40:51Z",
+  "summary": "Behind the scenes here, the editorial team has spent the past few weeks exploring the PGC Nordics schedule through interviews, op-eds and features with the speakers. Along the way, certain sessions have piqued our interest, and COO Dave has his own pick to add. Here are the ones we’re most looking forward to and why they’ve made our must-attend list. ... [ MORE ]",
+  "state": "new"
+ },
+ {
   "id": "19cc66c6586a",
   "source": "GamesIndustry.biz",
   "category": "news",
