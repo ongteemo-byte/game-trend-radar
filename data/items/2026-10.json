@@ -1,5 +1,82 @@
 [
  {
+  "id": "cff0c9caa238",
+  "source": "나스미디어 블로그",
+  "category": "outlook",
+  "title": "치지직 '스포터'·웨이브 ‘AI 시청 에이전트', AI 하이라이트가 넓힌 시청 선택지",
+  "link": "https://blog.nasmedia.co.kr/entry/2610naspick-AI-highlights",
+  "published": "2026-10-15T02:17:23Z",
+  "collected_at": "2026-10-15T02:28:11Z",
+  "summary": "*생성형AI로 제작한 이미지입니다. 10월의 나스픽 핵심 요약 국내외 영상 플랫폼이 AI로 긴 영상 속 원하는 장면을 더 쉽게 만날 수 있게 하고 있습니다. 네이버 치지직과 SBS는 AI가 고른 주요 장면을 먼저 보여 주고, 웨이브는 자동 하이라이트에 시청자가 원하는 장면을 직접 요청하는 기능을 더했습니다. 해외에서는 아마존 Alexa+와 유튜브 Ask YouTube가 말로 원하는 장면을 찾아 주고 있는데요. AI가 시청의 선택지를 넓히면서, 영상 속 브랜드가 시청자에게 다시 발견되는 맥락도 다양해질 수 있습니다. 스포츠 경기 중계를 놓쳤을 때 여러분은 어떻게 다시 보시나요? 하이라이트 영상이나 숏폼 클립을 찾아보거나, 응원하는 선수의 이름을 검색하고, 그래도 원하는 장면이 없으면 긴 다시보기 영상의 재생 ",
+  "state": "new"
+ },
+ {
+  "id": "d2c0bcaf860d",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore",
+  "link": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore",
+  "published": "2026-10-14T22:08:51Z",
+  "collected_at": "2026-10-15T02:28:11Z",
+  "summary": "The decisions will ultimately impact over 120 jobs between the two studios as part of Ubisoft's ongoing restructuring efforts.",
+  "state": "new"
+ },
+ {
+  "id": "d3f8d10c022b",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push",
+  "link": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
+  "published": "2026-10-14T21:02:24Z",
+  "collected_at": "2026-10-15T02:28:11Z",
+  "summary": "Google Play is adding a batch of new discovery and social features for games, including a personalized Game Finder, timed competitive Sprints, and clip-sharing via its Sidekick overlay. Read more",
+  "state": "new"
+ },
+ {
+  "id": "bf143443e99d",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development",
+  "link": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+  "published": "2026-10-14T20:24:47Z",
+  "collected_at": "2026-10-15T02:28:11Z",
+  "summary": "Developers working on the upcoming Star Wars and Marvel shooter have been reportedly instructed to lean heavily on AI, especially during the creation of code and art.",
+  "state": "new"
+ },
+ {
+  "id": "59b7e21da32b",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Duke Nukem 3D level designer Richard \"Levelord\" Gray dies aged 68",
+  "link": "https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68",
+  "published": "2026-10-14T19:45:48Z",
+  "collected_at": "2026-10-15T02:28:11Z",
+  "summary": "Richard \"Levelord\" Gray, the level designer best known for his work on Duke Nukem 3D, has died aged 68. Read more",
+  "state": "new"
+ },
+ {
+  "id": "bc0cae900429",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "S&box plans to go free-to-play and embrace human curation saying \"Netflix for games doesn't work\"",
+  "link": "https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work",
+  "published": "2026-10-14T17:58:59Z",
+  "collected_at": "2026-10-15T02:28:11Z",
+  "summary": "Facepunch Studios plans to make its s&box platform free-to-play toward the end of the year as it shifts from offering as many games as possible to promoting the best and most popular ones. Read more",
+  "state": "new"
+ },
+ {
+  "id": "666ba38a620d",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening",
+  "link": "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening",
+  "published": "2026-10-14T16:34:08Z",
+  "collected_at": "2026-10-15T02:28:11Z",
+  "summary": "Norwegian developer Funcom has begun a restructuring process following a decision to focus solely on live operations for Conan Exiles and Dune: Awakening , with an unknown number of staff affected. CEO Rui Casais, who has lead the developer for 11 years including through its 2020 acquisition by Tencent, will leave the business at the end of the year, to be succeeded by Chief Product Officer Scott ",
+  "state": "new"
+ },
+ {
   "id": "9714ba3afa08",
   "source": "PocketGamer.biz",
   "category": "news",
