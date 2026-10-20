@@ -1,5 +1,27 @@
 [
  {
+  "id": "c2b9b757c881",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
+  "link": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
+  "published": "2026-10-19T20:57:38Z",
+  "collected_at": "2026-10-20T02:43:31Z",
+  "summary": "Developers who want to complete control over their game's code have a new framework to lean on.",
+  "state": "new"
+ },
+ {
+  "id": "435922bb0f58",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "PEGI begins moving existing digital-only games with loot boxes up to a 16 rating",
+  "link": "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating",
+  "published": "2026-10-19T19:12:21Z",
+  "collected_at": "2026-10-20T02:43:31Z",
+  "summary": "Existing digital-only games that include paid random items, such as loot boxes, are being re-rated PEGI 16 if they currently carry a PEGI 3, 7, or 12 rating. Read more",
+  "state": "new"
+ },
+ {
   "id": "c18028d7883a",
   "source": "Game Developer",
   "category": "news",
