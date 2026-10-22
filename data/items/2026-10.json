@@ -1,5 +1,49 @@
 [
  {
+  "id": "8bae0222d24d",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development",
+  "link": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
+  "published": "2026-10-21T18:57:37Z",
+  "collected_at": "2026-10-22T02:35:01Z",
+  "summary": "EA is reportedly laying off 400 employees, 50 of whom were the remaining staffers at BioWare.",
+  "state": "new"
+ },
+ {
+  "id": "12333d282db4",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "BioWare is closing after 30 years",
+  "link": "https://www.gamesindustry.biz/bioware-is-closing-after-30-years",
+  "published": "2026-10-21T17:55:20Z",
+  "collected_at": "2026-10-22T02:35:01Z",
+  "summary": "Mass Effect and Dragon Age developer BioWare is closing after more than 30 years, and early development on the next Mass Effect project is ending. Read more",
+  "state": "new"
+ },
+ {
+  "id": "bf21e1e89a25",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "AMD's FSR 4.1 upscaling is coming to Xbox Series X|S",
+  "link": "https://www.gamesindustry.biz/amds-fsr-41-upscaling-is-coming-to-xbox-series-xs",
+  "published": "2026-10-21T17:39:13Z",
+  "collected_at": "2026-10-22T02:35:01Z",
+  "summary": "Microsoft and AMD have announced that AMD's FSR 4.1 upscaling technology is coming to Xbox Series X|S consoles. Read more",
+  "state": "new"
+ },
+ {
+  "id": "e0cab401da27",
+  "source": "PocketGamer.biz",
+  "category": "news",
+  "title": "Agree IP terms early, cut through AI hype, stop overloading players: Four lessons from PGC Nordics",
+  "link": "https://www.pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/",
+  "published": "2026-10-21T16:28:00Z",
+  "collected_at": "2026-10-22T02:35:01Z",
+  "summary": "More isn't always better. That idea ran through several sessions at PGC Nordics, which brought the mobile games industry to Helsinki on October 20th and 21st. Here are four highlights from Katharina Schmidt, Dr Luke Dicken, Urška Leskovar and Ola Dokun, covering IP collabs, AI, live ops and direct-to-consumer sales. ... [ MORE ]",
+  "state": "new"
+ },
+ {
   "id": "4a62a9419ab7",
   "source": "GamesIndustry.biz",
   "category": "news",
