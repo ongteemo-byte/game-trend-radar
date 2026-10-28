@@ -1,5 +1,49 @@
 [
  {
+  "id": "367f8094e6ef",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+  "link": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+  "published": "2026-10-27T19:34:13Z",
+  "collected_at": "2026-10-28T03:10:53Z",
+  "summary": "Rockstar employees will have two weeks to decide if they want to recognize the IWGB Rockstar Game Workers Union.",
+  "state": "new"
+ },
+ {
+  "id": "3a82b93f3b43",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Warhorse Studios hit by an undetailed cybersecurity incident",
+  "link": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
+  "published": "2026-10-27T19:15:00Z",
+  "collected_at": "2026-10-28T03:10:53Z",
+  "summary": "The developer behind the Kingdom Come: Deliverance games has revealed that it has been hit by a 'serious' cybersecurity attack and is taking steps to assess the full impact.",
+  "state": "new"
+ },
+ {
+  "id": "465ecdc5dc01",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Crossy Road creator Matt Hall named Atari's EVP of Mobile",
+  "link": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+  "published": "2026-10-27T18:45:00Z",
+  "collected_at": "2026-10-28T03:10:53Z",
+  "summary": "One of the mobile game industry's most well-known pioneers will spearhead Atari's own foray into mobile.",
+  "state": "new"
+ },
+ {
+  "id": "e365bf3db74a",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Epic is updating its EULA to allow AI training on outputs from Unreal Engine and MetaHuman",
+  "link": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+  "published": "2026-10-27T17:53:41Z",
+  "collected_at": "2026-10-28T03:10:53Z",
+  "summary": "In a post on X, Epic CEO Tim Sweeney casually states that the EULA for using Epic's engine will allow for training AI on the output, though developers can still choose to restrict it for individual games.",
+  "state": "new"
+ },
+ {
   "id": "e2290dcb7965",
   "source": "PocketGamer.biz",
   "category": "news",
