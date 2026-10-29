@@ -1,5 +1,38 @@
 [
  {
+  "id": "fcfe765c1dcf",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "PressEngine announces The Pre-Show, an in-person London showcase for upcoming games",
+  "link": "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
+  "published": "2026-10-28T19:13:51Z",
+  "collected_at": "2026-10-29T03:37:21Z",
+  "summary": "PR and influencer marketing platform PressEngine is launching The Pre-Show, an in-person event that puts developers directly in front of media and content creators. Read more",
+  "state": "new"
+ },
+ {
+  "id": "88c85179c5b8",
+  "source": "GamesIndustry.biz",
+  "category": "news",
+  "title": "Hearth and Hamlet publisher Runic Forge rebrands as Pythia Games",
+  "link": "https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games",
+  "published": "2026-10-28T17:56:48Z",
+  "collected_at": "2026-10-29T03:37:21Z",
+  "summary": "Hearth and Hamlet publisher Runic Forge has rebranded as Pythia Games. Read more",
+  "state": "new"
+ },
+ {
+  "id": "eb126d2eb25a",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine",
+  "link": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
+  "published": "2026-10-28T16:28:55Z",
+  "collected_at": "2026-10-29T03:37:21Z",
+  "summary": "After an AI-first pivot, Epic has confirmed that AI is shaping the Unreal Engine in the near future.",
+  "state": "new"
+ },
+ {
   "id": "45b325b5edc7",
   "source": "Game Developer",
   "category": "news",
@@ -41,6 +74,17 @@
   "published": "2026-10-28T15:00:00Z",
   "collected_at": "2026-10-28T17:40:39Z",
   "summary": "If you've made it this far in the series, you now have the building blocks of a functioning studio operating system: a clear purpose , long and short-term goals , a system for catching and solving issues , and a quarterly rhythm that keeps your team focused and accountable . This week, we're looking at the glue that holds all of it together: your meetings. Read more",
+  "state": "new"
+ },
+ {
+  "id": "e910dcf032f5",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Valve weighs in on Next Fest AI cloning phenomenon",
+  "link": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
+  "published": "2026-10-28T14:42:21Z",
+  "collected_at": "2026-10-29T03:37:21Z",
+  "summary": "The worrying trend of games on Steam getting quick clones for the same storefront has been acknowledged by store owner Valve — and the onus placed on developers to prevent it themselves.",
   "state": "new"
  },
  {
