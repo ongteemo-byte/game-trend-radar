@@ -1,5 +1,27 @@
 [
  {
+  "id": "2fa15f7dd5d6",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Anthropic orders AI tool Claude to stop remaking video games",
+  "link": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+  "published": "2026-10-30T18:52:20Z",
+  "collected_at": "2026-10-31T03:24:30Z",
+  "summary": "Update: Anthropic has confirmed it's released an update to Opus 5.5 to \"steer\" Claude Code away from \"recreating someone else's specific game.\"",
+  "state": "new"
+ },
+ {
+  "id": "7637c2807c48",
+  "source": "Game Developer",
+  "category": "news",
+  "title": "Roblox growth slumps, but the company is betting big on AI to compensate",
+  "link": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+  "published": "2026-10-30T18:30:00Z",
+  "collected_at": "2026-10-31T03:24:30Z",
+  "summary": "Roblox's quarterly financial results missed their daily active user goals, but the company plans to make up for it somehow with AI.",
+  "state": "new"
+ },
+ {
   "id": "4ad34e21bb5e",
   "source": "PocketGamer.biz",
   "category": "news",
